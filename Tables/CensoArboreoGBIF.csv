@@ -1,4 +1,4 @@
-verbatimScientificName;scientificName;key;matchType;confidence;status;rank;kingdom;phylum;class;order;family;genus;species;canonicalName;authorship
+verbatimScientificName;scientificName;key;matchType;confidence;status;rank;kingdom;phylum;class;ordern;family;genus;species;canonicalName;authorship
 Terminalia catappa;Terminalia catappa L.;3189394;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Combretaceae;Terminalia;Terminalia catappa;Terminalia catappa;L.
 Lacistema aggregatum;Lacistema aggregatum Fawc. & Rendle;7767242;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Lacistemataceae;Lacistema;Lacistema aggregatum;Lacistema aggregatum;Fawc. & Rendle
 Oenocarpus bataua;Oenocarpus bataua Mart.;2735462;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Oenocarpus;Oenocarpus bataua;Oenocarpus bataua;Mart.

@@ -39,3 +39,16 @@ ALTER TABLE censo_arboreo OWNER TO postgres;
 -- Querying scientific names of tree species
 
 SELECT DISTINCT(nombre_cie) FROM censo_arboreo;
+
+-- Creation of the GBIF Key field in the Censo Arboreo de Cali spatial database
+
+ALTER TABLE censo_arboreo ADD COLUMN gbif_key varchar(10);
+
+-- GBIF key data linking
+
+UPDATE censo_arboreo SET gbif_key = censo_arboreo_gbif.key FROM censo_arboreo_gbif WHERE nombre_cie = censo_arboreo_gbif.species;
+
+
+
+
+

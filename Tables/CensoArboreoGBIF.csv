@@ -1,0 +1,457 @@
+verbatimScientificName;scientificName;key;matchType;confidence;status;rank;kingdom;phylum;class;order;family;genus;species;canonicalName;authorship
+Terminalia catappa;Terminalia catappa L.;3189394;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Combretaceae;Terminalia;Terminalia catappa;Terminalia catappa;L.
+Lacistema aggregatum;Lacistema aggregatum Fawc. & Rendle;7767242;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Lacistemataceae;Lacistema;Lacistema aggregatum;Lacistema aggregatum;Fawc. & Rendle
+Oenocarpus bataua;Oenocarpus bataua Mart.;2735462;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Oenocarpus;Oenocarpus bataua;Oenocarpus bataua;Mart.
+Schefflera arboricola;Schefflera arboricola (Hayata) Merr.;3038723;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Schefflera;Schefflera arboricola;Schefflera arboricola;(Hayata) Merr.
+Miconia lingustrina;Miconia Ruiz & Pav.;3188558;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Melastomataceae;Miconia;;Miconia;Ruiz & Pav.
+Gossypium barbadense;Gossypium barbadense L.;3152666;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Gossypium;Gossypium barbadense;Gossypium barbadense;L.
+Eugenia stipitata;Eugenia stipitata Mc Vaugh;10503673;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Eugenia;Eugenia stipitata;Eugenia stipitata;Mc Vaugh
+Dracaena deremensis;Dracaena deremensis Engl.;5304602;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena fragrans;Dracaena deremensis;Engl.
+Yucca arborescens;Yucca arborescens (Torr.) Trel.;2775596;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Yucca;Yucca brevifolia;Yucca arborescens;(Torr.) Trel.
+Euphorbia pulcherrima;Euphorbia pulcherrima Willd. ex Klotzsch;3066465;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Euphorbia;Euphorbia pulcherrima;Euphorbia pulcherrima;Willd. ex Klotzsch
+Cryosophila kalbreyeri;Cryosophila kalbreyeri (Dammer ex Burret) Dahlgren;2731944;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Cryosophila;Cryosophila kalbreyeri;Cryosophila kalbreyeri;(Dammer ex Burret) Dahlgren
+Vismia guianensis;Vismia guianensis (Aubl.) DC.;7330275;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Hypericaceae;Vismia;Vismia guianensis;Vismia guianensis;(Aubl.) DC.
+Euphorbia aphylla;Euphorbia aphylla Brouss. ex Willd.;3069165;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Euphorbia;Euphorbia aphylla;Euphorbia aphylla;Brouss. ex Willd.
+Phyllostachys aurea;Phyllostachys aurea (André) Rivière & C.Rivière;5290167;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;Phyllostachys;Phyllostachys aurea;Phyllostachys aurea;(André) Rivière & C.Rivière
+Elaeagnus angustifolia;Elaeagnus angustifolia L.;3039269;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Elaeagnaceae;Elaeagnus;Elaeagnus angustifolia;Elaeagnus angustifolia;L.
+Psidium guajava;Psidium guajava L.;5420380;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Psidium;Psidium guajava;Psidium guajava;L.
+Breynia nivosa;Breynia nivosa (W.Bull) Small;5383032;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Phyllanthaceae;Breynia;Breynia disticha;Breynia nivosa;(W.Bull) Small
+Licuala grandis;Licuala grandis (T.Moore) H.Wendl.;8008690;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Licuala;Licuala grandis;Licuala grandis;(T.Moore) H.Wendl.
+Chlorocardium rodiei;Chlorocardium rodiei (R.H.Schomb.) Rohwer, H.G.Richt. & van der Werff;4178451;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Chlorocardium;Chlorocardium rodiei;Chlorocardium rodiei;(R.H.Schomb.) Rohwer, H.G.Richt. & van der Werff
+Solanum verbascifolium;Solanum L.;2928997;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;Solanum;;Solanum;L.
+Didymopanax morototoni;Didymopanax morototoni (Aubl.) Decne. & Planch.;3038523;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Schefflera;Schefflera morototoni;Didymopanax morototoni;(Aubl.) Decne. & Planch.
+Brunfelsia latifolia;Brunfelsia latifolia (Pohl) Benth.;3799916;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;Brunfelsia;Brunfelsia latifolia;Brunfelsia latifolia;(Pohl) Benth.
+Billia columbiana;Billia columbiana Planch. & Linden ex Triana & Planch.;3672327;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;Billia;Billia rosea;Billia columbiana;Planch. & Linden ex Triana & Planch.
+Plumeria cutinifolia;Plumeria Tourn. ex L.;3169672;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Plumeria;;Plumeria;Tourn. ex L.
+Handroanthus chrysanthus;Handroanthus chrysanthus (Jacq.) S.O.Grose;6401337;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Handroanthus;Handroanthus chrysanthus;Handroanthus chrysanthus;(Jacq.) S.O.Grose
+Ficus insipida;Ficus insipida Willd.;6358534;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus insipida;Ficus insipida;Willd.
+Bismarckia nobilis;Bismarckia nobilis Hildebr. & H.Wendl.;2733941;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Bismarckia;Bismarckia nobilis;Bismarckia nobilis;Hildebr. & H.Wendl.
+Bursera tomentosa;Bursera tomentosa (Jacq.) Triana & Planch.;7286860;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Burseraceae;Bursera;Bursera tomentosa;Bursera tomentosa;(Jacq.) Triana & Planch.
+Grevillea rosmarinifolia;Grevillea rosmarinifolia A.Cunn.;7287628;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Proteales;Proteaceae;Grevillea;Grevillea rosmarinifolia;Grevillea rosmarinifolia;A.Cunn.
+Tabebuia roseoalba;Tabebuia roseoalba (Ridl.) Sandwith;4091431;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Tabebuia;Tabebuia roseoalba;Tabebuia roseoalba;(Ridl.) Sandwith
+Cassia fistula;Cassia fistula L.;5357108;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Cassia;Cassia fistula;Cassia fistula;L.
+Phoenix roebelenii;Phoenix roebelenii O'Brien;5293153;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Phoenix;Phoenix roebelenii;Phoenix roebelenii;O'Brien
+Ceiba pentandra;Ceiba pentandra (L.) Gaertn.;5406697;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Ceiba;Ceiba pentandra;Ceiba pentandra;(L.) Gaertn.
+Caesalpinia pulcherrima;Caesalpinia pulcherrima (L.) Sw.;2958715;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Caesalpinia;Caesalpinia pulcherrima;Caesalpinia pulcherrima;(L.) Sw.
+Mimosa pigra;Mimosa pigra L.;2969431;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Mimosa;Mimosa pigra;Mimosa pigra;L.
+Pyracantha coccinea;Pyracantha coccinea M.Roem.;2988188;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;Pyracantha;Pyracantha coccinea;Pyracantha coccinea;M.Roem.
+Citrus medica;Citrus medica L.;3190157;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Citrus;Citrus medica;Citrus medica;L.
+Eucalyptus deglupta;Eucalyptus deglupta Blume;3176325;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Eucalyptus;Eucalyptus deglupta;Eucalyptus deglupta;Blume
+Ficus microcarpa;Ficus microcarpa L.fil.;7467639;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus microcarpa;Ficus microcarpa;L.fil.
+Tabernaemontana litoralis;Tabernaemontana litoralis Kunth;3616406;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Tabernaemontana;Tabernaemontana litoralis;Tabernaemontana litoralis;Kunth
+Gliricidia sepium;Gliricidia sepium (Jacq.) Kunth;8082978;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Gliricidia;Gliricidia sepium;Gliricidia sepium;(Jacq.) Kunth
+Hibiscus rosa-sinensis;Hibiscus rosa-sinensis L.;3152559;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Hibiscus;Hibiscus rosa-sinensis;Hibiscus rosa-sinensis;L.
+Citharexylum subflavescens;Citharexylum subflavescens S.F.Blake;4085930;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Verbenaceae;Citharexylum;Citharexylum subflavescens;Citharexylum subflavescens;S.F.Blake
+Papaver somniferum;Papaver somniferum L.;2888439;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ranunculales;Papaveraceae;Papaver;Papaver somniferum;Papaver somniferum;L.
+Trema micrantha;Trema micrantha (L.) Blume;7141666;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Cannabaceae;Trema;Trema micrantha;Trema micrantha;(L.) Blume
+Cupressus macrocarpa;Cupressus macrocarpa Hartw. ex Gordon;2684070;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;Cupressus;Cupressus macrocarpa;Cupressus macrocarpa;Hartw. ex Gordon
+Yucca filifera;Yucca filifera Chabaud;2775707;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Yucca;Yucca filifera;Yucca filifera;Chabaud
+Bactris gasipaes;Bactris gasipaes Kunth;2733060;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Bactris;Bactris gasipaes;Bactris gasipaes;Kunth
+Ficus palmirana;Ficus palmirana Dugand;5570083;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus insipida;Ficus palmirana;Dugand
+Bixa orellana;Bixa orellana L.;2874863;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Bixaceae;Bixa;Bixa orellana;Bixa orellana;L.
+Lagerstroemia speciosa;Lagerstroemia speciosa (L.) Pers.;3188724;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Lythraceae;Lagerstroemia;Lagerstroemia speciosa;Lagerstroemia speciosa;(L.) Pers.
+Caryota urens;Caryota urens L.;2738914;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Caryota;Caryota urens;Caryota urens;L.
+Chamaecyparis pisifera;Chamaecyparis pisifera (Siebold & Zucc.) Endl.;2683880;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;Chamaecyparis;Chamaecyparis pisifera;Chamaecyparis pisifera;(Siebold & Zucc.) Endl.
+Dalbergia retusa;Dalbergia retusa Hemsl.;2968539;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Dalbergia;Dalbergia retusa;Dalbergia retusa;Hemsl.
+Machaerium capote;Machaerium capote Triana ex Dugand;5354954;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Machaerium;Machaerium capote;Machaerium capote;Triana ex Dugand
+Tulbaghia violacea;Tulbaghia violacea Harv.;5326622;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Amaryllidaceae;Tulbaghia;Tulbaghia violacea;Tulbaghia violacea;Harv.
+Hibiscus elatus;Hibiscus L.;3152542;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Hibiscus;;Hibiscus;L.
+Cinnamomum zeylanicum;Cinnamomum zeylanicum Blume;3033988;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Cinnamomum;Cinnamomum verum;Cinnamomum zeylanicum;Blume
+Andira inermis;Andira inermis (W.Wright) DC.;2952214;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Andira;Andira inermis;Andira inermis;(W.Wright) DC.
+Crateva tapia;Crateva tapia L.;3054262;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Capparaceae;Crateva;Crateva tapia;Crateva tapia;L.
+Tessaria integrifolia;Tessaria integrifolia Ruiz & Pav.;3114910;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;Tessaria;Tessaria integrifolia;Tessaria integrifolia;Ruiz & Pav.
+Pseudolmedia laevigata;Pseudolmedia laevigata Trécul;3764182;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Pseudolmedia;Pseudolmedia laevigata;Pseudolmedia laevigata;Trécul
+Acrocomia aculeata;Acrocomia aculeata (Jacq.) Lodd. ex R.Keith;7413879;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Acrocomia;Acrocomia aculeata;Acrocomia aculeata;(Jacq.) Lodd. ex R.Keith
+Dracaena reflexa;Dracaena reflexa Lam.;5304436;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena reflexa;Dracaena reflexa;Lam.
+Cassia grandis;Cassia grandis L.f.;5357158;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Cassia;Cassia grandis;Cassia grandis;L.f.
+Megaskepasma erythrochlamys;Megaskepasma erythrochlamys Lindau;3773061;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Acanthaceae;Megaskepasma;Megaskepasma erythrochlamys;Megaskepasma erythrochlamys;Lindau
+Brunellia comocladifolia;Brunellia comocladifolia Humb. & Bonpl.;7125468;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Oxalidales;Brunelliaceae;Brunellia;Brunellia comocladifolia;Brunellia comocladifolia;Humb. & Bonpl.
+Callistemon citrinus;Callistemon citrinus (Curtis) Skeels;3173413;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Callistemon;Callistemon citrinus;Callistemon citrinus;(Curtis) Skeels
+Gmelina arborea;Gmelina arborea Roxb. ex Sm.;8247889;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;Gmelina;Gmelina arborea;Gmelina arborea;Roxb. ex Sm.
+Bunchosia argentea;Bunchosia argentea (Jacq.) DC.;3984105;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Malpighiaceae;Bunchosia;Bunchosia argentea;Bunchosia argentea;(Jacq.) DC.
+Schefflera actinophylla;Schefflera actinophylla (Endl.) Harms;3038546;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Schefflera;Schefflera actinophylla;Schefflera actinophylla;(Endl.) Harms
+Citrus mitis;Citrus ×mitis Blanco;3190399;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Citrus;Citrus microcarpa;Citrus mitis;Blanco
+Achatocarpus nigricans;Achatocarpus nigricans Triana;3752400;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Achatocarpaceae;Achatocarpus;Achatocarpus nigricans;Achatocarpus nigricans;Triana
+Erythroxylum coca;Erythroxylum coca Lam.;2873939;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Erythroxylaceae;Erythroxylum;Erythroxylum coca;Erythroxylum coca;Lam.
+Ficus glabrata;Ficus glabrata Kunth;7262619;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus insipida;Ficus glabrata;Kunth
+Ficus decora;Ficus decora;9719468;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus elastica;Ficus decora;
+Bambusa vulgaris;Bambusa vulgaris Schrad. ex J.C.Wendl.;7661971;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;Bambusa;Bambusa vulgaris;Bambusa vulgaris;Schrad. ex J.C.Wendl.
+Morinda citrifolia;Morinda citrifolia L.;5339879;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Morinda;Morinda citrifolia;Morinda citrifolia;L.
+Cupressus lusitanica;Cupressus lusitanica Mill.;2684046;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;Cupressus;Cupressus lusitanica;Cupressus lusitanica;Mill.
+Euphorbia cotinifolia;Euphorbia cotinifolia L.;3067261;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Euphorbia;Euphorbia cotinifolia;Euphorbia cotinifolia;L.
+Caesalpinia pluviosa;Caesalpinia pluviosa DC.;2958602;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Cenostigma;Cenostigma pluviosum;Caesalpinia pluviosa;DC.
+Anacardium excelsum;Anacardium excelsum (Bertero & Balb.) Skeels;5544303;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;Anacardium;Anacardium excelsum;Anacardium excelsum;(Bertero & Balb.) Skeels
+Jacaranda copaia;Jacaranda copaia (Aubl.) D.Don;7298763;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Jacaranda;Jacaranda copaia;Jacaranda copaia;(Aubl.) D.Don
+Amaranthus caudatus;Amaranthus caudatus L.;6109611;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Amaranthaceae;Amaranthus;Amaranthus caudatus;Amaranthus caudatus;L.
+Terminalia amazonica;Terminalia amazonica (J.F.Gmel.) Exell;8153963;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Combretaceae;Terminalia;Terminalia amazonica;Terminalia amazonica;(J.F.Gmel.) Exell
+Parkinsonia aculeata;Parkinsonia aculeata L.;5357217;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Parkinsonia;Parkinsonia aculeata;Parkinsonia aculeata;L.
+Spathodea campanulata;Spathodea campanulata Beauv.;3172574;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Spathodea;Spathodea campanulata;Spathodea campanulata;Beauv.
+Burugmancia arborea;;;NONE;100;;;;;;;;;;;
+Elaeis oleifera;Elaeis oleifera (Kunth) Cortés;8791596;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Elaeis;Elaeis oleifera;Elaeis oleifera;(Kunth) Cortés
+Coffea arabica;Coffea arabica L.;2895345;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Coffea;Coffea arabica;Coffea arabica;L.
+Wodyetia bifurcata;Wodyetia bifurcata A.K.Irvine;2736620;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Wodyetia;Wodyetia bifurcata;Wodyetia bifurcata;A.K.Irvine
+Ficus elongata;;;NONE;100;;;;;;;;;;;
+Citrus aurantium;Citrus ×aurantium L.;8077391;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Citrus;Citrus aurantium;Citrus aurantium;L.
+Malpighia emarginata;Malpighia emarginata DC.;5421427;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Malpighiaceae;Malpighia;Malpighia emarginata;Malpighia emarginata;DC.
+Xylopia aromatica;Xylopia aromatica (Lam.) Mart.;3157126;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Xylopia;Xylopia aromatica;Xylopia aromatica;(Lam.) Mart.
+Plumeria rubra;Plumeria rubra L.;3169674;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Plumeria;Plumeria rubra;Plumeria rubra;L.
+Leucaena magnifica;Leucaena magnifica (C.E.Hughes) C.E.Hughes;2970359;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Leucaena;Leucaena magnifica;Leucaena magnifica;(C.E.Hughes) C.E.Hughes
+Annona squamosa;Annona squamosa L.;5407099;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona squamosa;Annona squamosa;L.
+Cespedesia spathulata;Cespedesia spathulata (Ruiz & Pav.) Planch.;3695801;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Ochnaceae;Cespedesia;Cespedesia spathulata;Cespedesia spathulata;(Ruiz & Pav.) Planch.
+Miconia squamulosa;Miconia squamulosa (Sm.) Triana;3866257;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Melastomataceae;Miconia;Miconia squamulosa;Miconia squamulosa;(Sm.) Triana
+Jasminum oliganthum;Jasminum oliganthum Quisumb. & Merr.;3682840;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Oleaceae;Jasminum;Jasminum oliganthum;Jasminum oliganthum;Quisumb. & Merr.
+Mangifera indica;Mangifera indica L.;3190638;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;Mangifera;Mangifera indica;Mangifera indica;L.
+Artocarpus communis;Artocarpus communis J.R.Forst. & G.Forst.;2984574;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Artocarpus;Artocarpus altilis;Artocarpus communis;J.R.Forst. & G.Forst.
+Syagrus sancona;Syagrus sancona (Kunth) H.Karst.;5293840;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Syagrus;Syagrus sancona;Syagrus sancona;(Kunth) H.Karst.
+Clusia multiflora;Clusia multiflora Kunth;7330264;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Clusiaceae;Clusia;Clusia multiflora;Clusia multiflora;Kunth
+Senna polyphylla;Senna polyphylla (Jacq.) H.S.Irwin & Barneby;2957869;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Senna;Senna polyphylla;Senna polyphylla;(Jacq.) H.S.Irwin & Barneby
+Adenium sp;Adenium Roem. & Schult.;7155880;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Adenium;;Adenium;Roem. & Schult.
+Tectona grandis;Tectona grandis L.f.;2925649;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;Tectona;Tectona grandis;Tectona grandis;L.f.
+Tabebuia rosea;Tabebuia rosea (Bertol.) DC.;3172537;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Tabebuia;Tabebuia rosea;Tabebuia rosea;(Bertol.) DC.
+Sabal palmetto;Sabal palmetto (Walter) Lodd. ex Schult. & Schult.f.;4925538;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Sabal;Sabal palmetto;Sabal palmetto;(Walter) Lodd. ex Schult. & Schult.f.
+Geoffroea spinosa;Geoffroea spinosa Jacq.;2966693;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Geoffroea;Geoffroea spinosa;Geoffroea spinosa;Jacq.
+Macadamia integrifolia;Macadamia integrifolia Maiden & Betche;2891785;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Proteales;Proteaceae;Macadamia;Macadamia integrifolia;Macadamia integrifolia;Maiden & Betche
+Lonicera caprifolium;Lonicera caprifolium L.;5334227;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Dipsacales;Caprifoliaceae;Lonicera;Lonicera caprifolium;Lonicera caprifolium;L.
+Persea americana;Persea americana Mill.;3034046;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Persea;Persea americana;Persea americana;Mill.
+Eucalyptus grandis;Eucalyptus grandis W.Hill ex Maiden;3177028;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Eucalyptus;Eucalyptus grandis;Eucalyptus grandis;W.Hill ex Maiden
+Acacia melanoxylon;Acacia melanoxylon R.Br.;2979000;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Acacia;Acacia melanoxylon;Acacia melanoxylon;R.Br.
+Olea europaea;Olea europaea L.;5415040;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Oleaceae;Olea;Olea europaea;Olea europaea;L.
+Bunchosia armeniaca;Bunchosia armeniaca (Cav.) Rich.;8398507;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Malpighiaceae;Bunchosia;Bunchosia armeniaca;Bunchosia armeniaca;(Cav.) Rich.
+Triphasia trifolia;Triphasia trifolia (Burm.fil.) P.Wilson;3190406;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Triphasia;Triphasia trifolia;Triphasia trifolia;(Burm.fil.) P.Wilson
+Polyscias guilfoylei;Polyscias guilfoylei (W.Bull) L.H.Bailey;3035681;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Polyscias;Polyscias guilfoylei;Polyscias guilfoylei;(W.Bull) L.H.Bailey
+Solanum americanum;Solanum americanum Mill.;2930222;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;Solanum;Solanum americanum;Solanum americanum;Mill.
+Acasia mangium;Acacia mangium Willd.;2979091;FUZZY;85;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Acacia;Acacia mangium;Acacia mangium;Willd.
+Gardenia jasminoides;Gardenia jasminoides J.Ellis;5335125;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Gardenia;Gardenia jasminoides;Gardenia jasminoides;J.Ellis
+Genipa americana;Genipa americana L.;2895593;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Genipa;Genipa americana;Genipa americana;L.
+Ceiba speciosa;Ceiba speciosa (A.St.-Hil., A.Juss. & Cambess.) Ravenna;8688929;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Ceiba;Ceiba speciosa;Ceiba speciosa;(A.St.-Hil., A.Juss. & Cambess.) Ravenna
+Bougainvillea;Bougainvillea Comm. ex Juss.;3086089;EXACT;92;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Nyctaginaceae;Bougainvillea;;Bougainvillea;Comm. ex Juss.
+Sabal mauritiforms;Sabal mauritiiformis (H.Karst.) Griseb. & H.Wendl.;2732482;FUZZY;95;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Sabal;Sabal mauritiiformis;Sabal mauritiiformis;(H.Karst.) Griseb. & H.Wendl.
+Inga edulis;Inga edulis Mart.;5357677;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Inga;Inga edulis;Inga edulis;Mart.
+Duranta aurea;Duranta L.;2925654;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Verbenaceae;Duranta;;Duranta;L.
+Leythis tuyarana;;;NONE;100;;;;;;;;;;;
+Adonidia merrillii;Adonidia merrillii (Becc.) Becc.;2738434;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Adonidia;Adonidia merrillii;Adonidia merrillii;(Becc.) Becc.
+Tabernaemontana persicariifolia;Tabernaemontana persicariifolia Jacq.;3615078;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Tabernaemontana;Tabernaemontana persicariifolia;Tabernaemontana persicariifolia;Jacq.
+Cananga sp;Cananga (DC.) Hook.f. & Thomson;5407582;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Cananga;;Cananga;(DC.) Hook.f. & Thomson
+Ficus goldmannii;Ficus goldmanii Standl.;5571045;FUZZY;96;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus goldmanii;Ficus goldmanii;Standl.
+Acalypha achimenes;Acalypha L.;3055964;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Acalypha;;Acalypha;L.
+Prunus domestica;Prunus domestica L.;7931731;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;Prunus;Prunus domestica;Prunus domestica;L.
+Citrus reticulata;Citrus reticulata Blanco;3190172;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Citrus;Citrus reticulata;Citrus reticulata;Blanco
+Phyllanthus acuminatus;Phyllanthus acuminatus Vahl;5381441;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Phyllanthaceae;Phyllanthus;Phyllanthus acuminatus;Phyllanthus acuminatus;Vahl
+Trichilia pallida;Trichilia pallida Sw.;3190491;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Trichilia;Trichilia pallida;Trichilia pallida;Sw.
+Ficus variegata;;;NONE;100;;;;;;;;;;;
+Vitex cymosa;Vitex cymosa Bertero ex Spreng.;7309596;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Lamiaceae;Vitex;Vitex cymosa;Vitex cymosa;Bertero ex Spreng.
+Swinglea glutinosa;Swinglea glutinosa (Blanco) Merr.;3837155;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Swinglea;Swinglea glutinosa;Swinglea glutinosa;(Blanco) Merr.
+Pouteria caimito;Pouteria caimito (Ruiz & Pav.) Radlk.;2884788;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ericales;Sapotaceae;Pouteria;Pouteria caimito;Pouteria caimito;(Ruiz & Pav.) Radlk.
+Mammea americana;Mammea americana L.;3189421;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Calophyllaceae;Mammea;Mammea americana;Mammea americana;L.
+Ahouai nitida;Ahouai nitida (Kunth) Pichon;3618751;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Thevetia;Thevetia ahouai;Ahouai nitida;(Kunth) Pichon
+Ptychosperma macarthurii;Ptychosperma macarthurii (H.Wendl. ex H.J.Veitch) H.Wendl. ex Hook.f.;2733897;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Ptychosperma;Ptychosperma macarthurii;Ptychosperma macarthurii;(H.Wendl. ex H.J.Veitch) H.Wendl. ex Hook.f.
+Inga spectabilis;Inga spectabilis (Vahl) Willd.;5357491;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Inga;Inga spectabilis;Inga spectabilis;(Vahl) Willd.
+Solanum macranthum;Solanum L.;2928997;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;Solanum;;Solanum;L.
+Himatanthus articulatus;Himatanthus articulatus (Vahl) Woodson;3621740;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Himatanthus;Himatanthus articulatus;Himatanthus articulatus;(Vahl) Woodson
+Adenanthera pavonina;Adenanthera pavonina L.;2951846;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Adenanthera;Adenanthera pavonina;Adenanthera pavonina;L.
+Jatropha curcas;Jatropha curcas L.;3072953;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Jatropha;Jatropha curcas;Jatropha curcas;L.
+Cordia alliodora;Cordia alliodora (Ruiz & Pav.) Oken;7649215;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Cordiaceae;Cordia;Cordia alliodora;Cordia alliodora;(Ruiz & Pav.) Oken
+Lafoensia punicifolia;Lafoensia punicifolia Bertero ex DC.;3989500;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Lythraceae;Lafoensia;Lafoensia punicifolia;Lafoensia punicifolia;Bertero ex DC.
+Platysmicium pinnatum;;;NONE;100;;;;;;;;;;;
+Brugmansia arborea;Brugmansia arborea (L.) Steud.;5341759;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;Brugmansia;Brugmansia arborea;Brugmansia arborea;(L.) Steud.
+Pithecellobium dulce;Pithecellobium dulce (Roxb.) Benth.;2962831;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Pithecellobium;Pithecellobium dulce;Pithecellobium dulce;(Roxb.) Benth.
+Syagrus romanzoffiana;Syagrus romanzoffiana (Cham.) Glassman;5293897;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Syagrus;Syagrus romanzoffiana;Syagrus romanzoffiana;(Cham.) Glassman
+Dypsis decaryi;Dypsis decaryi (Jum.) Beentje & J.Dransf.;2736002;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Dypsis;Dypsis decaryi;Dypsis decaryi;(Jum.) Beentje & J.Dransf.
+Simarouba amara;Simarouba amara Aubl.;7720664;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Simaroubaceae;Simarouba;Simarouba amara;Simarouba amara;Aubl.
+Triplaris americana;Triplaris americana L.;4038608;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;Triplaris;Triplaris americana;Triplaris americana;L.
+Ficus pertusa;Ficus pertusa L.fil.;7944396;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus pertusa;Ficus pertusa;L.fil.
+Dracaena draco;Dracaena draco (L.) L.;5304469;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena draco;Dracaena draco;(L.) L.
+Litchi chinensis;Litchi chinensis Sonn.;3190002;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;Litchi;Litchi chinensis;Litchi chinensis;Sonn.
+Casearia corymbosa;Casearia corymbosa Kunth;5603969;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Salicaceae;Casearia;Casearia corymbosa;Casearia corymbosa;Kunth
+Azadirachta indica;Azadirachta indica A.Juss.;3190474;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Azadirachta;Azadirachta indica;Azadirachta indica;A.Juss.
+Arce nigrun;Arce de Joannis, 1919;6117891;HIGHERRANK;94;SYNONYM;GENUS;Animalia;Arthropoda;Insecta;Lepidoptera;Tortricidae;Phtheochroa;;Arce;de Joannis, 1919
+Plinia cauliflora;Plinia cauliflora (DC.) Kausel;5415571;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Plinia;Plinia cauliflora;Plinia cauliflora;(DC.) Kausel
+Posoqueria longiflora;Posoqueria longiflora Aubl.;2893927;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Posoqueria;Posoqueria longiflora;Posoqueria longiflora;Aubl.
+Platypodium elegans;Platypodium elegans Vogel;2977383;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Platypodium;Platypodium elegans;Platypodium elegans;Vogel
+Acalypha wilkesiana;Acalypha wilkesiana Müll.Arg.;3057221;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Acalypha;Acalypha wilkesiana;Acalypha wilkesiana;Müll.Arg.
+Flacourtia indica;Flacourtia indica (Burm.fil.) Merr.;5331162;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Salicaceae;Flacourtia;Flacourtia indica;Flacourtia indica;(Burm.fil.) Merr.
+Salix babylonica;Salix babylonica L.;5372639;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Salicaceae;Salix;Salix babylonica;Salix babylonica;L.
+Ficus benghalensis;Ficus benghalensis L.;5361919;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus benghalensis;Ficus benghalensis;L.
+Caesalpinia ebano;Caesalpinia ebano H.Karst.;2958487;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Libidibia;Libidibia punctata;Caesalpinia ebano;H.Karst.
+Jatropha multifida;Jatropha multifida L.;3072985;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Jatropha;Jatropha multifida;Jatropha multifida;L.
+Carludovica palmata;Carludovica palmata Ruiz & Pav.;2860922;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Pandanales;Cyclanthaceae;Carludovica;Carludovica palmata;Carludovica palmata;Ruiz & Pav.
+Kigelia africana;Kigelia africana (Lam.) Benth.;3172561;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Kigelia;Kigelia africana;Kigelia africana;(Lam.) Benth.
+Pseudobombax septenatum;Pseudobombax septenatum (Jacq.) Dugand;4073614;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Pseudobombax;Pseudobombax septenatum;Pseudobombax septenatum;(Jacq.) Dugand
+Chrysobalanus icaco;Chrysobalanus icaco L.;2985082;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Chrysobalanaceae;Chrysobalanus;Chrysobalanus icaco;Chrysobalanus icaco;L.
+Myrsine guianensis;Myrsine guianensis (Aubl.) Kuntze;3169446;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ericales;Primulaceae;Myrsine;Myrsine guianensis;Myrsine guianensis;(Aubl.) Kuntze
+Melaleuca quinquenervia;Melaleuca quinquenervia (Cav.) S.T.Blake;5415832;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Melaleuca;Melaleuca quinquenervia;Melaleuca quinquenervia;(Cav.) S.T.Blake
+Guarea guidonia;Guarea guidonia (L.) Sleumer;3190500;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Guarea;Guarea guidonia;Guarea guidonia;(L.) Sleumer
+Cecropia obtusifolia;Cecropia obtusifolia Bertol.;2984473;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Urticaceae;Cecropia;Cecropia obtusifolia;Cecropia obtusifolia;Bertol.
+Eugenia uniflora;Eugenia uniflora L.;5416458;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Eugenia;Eugenia uniflora;Eugenia uniflora;L.
+Albizia carbonaria;Albizia carbonaria Britton;2973135;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Albizia;Albizia carbonaria;Albizia carbonaria;Britton
+Erythrina poeppigiana;Erythrina poeppigiana (Walp.) O.F.Cook;5349755;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Erythrina;Erythrina poeppigiana;Erythrina poeppigiana;(Walp.) O.F.Cook
+Dracaena sanderiana;Dracaena sanderiana Mast.;7431653;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena sanderiana;Dracaena sanderiana;Mast.
+Melia azedarach;Melia azedarach L.;5914287;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Melia;Melia azedarach;Melia azedarach;L.
+Clitoria fairchildiana;Clitoria fairchildiana R.A.Howard;2946600;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Clitoria;Clitoria fairchildiana;Clitoria fairchildiana;R.A.Howard
+Thespesia populnea;Thespesia populnea (L.) Sol. ex Corrêa;3152795;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Thespesia;Thespesia populnea;Thespesia populnea;(L.) Sol. ex Corrêa
+Cordia tetrandra;Cordia tetrandra Aubl.;5660556;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Cordiaceae;Cordia;Cordia tetrandra;Cordia tetrandra;Aubl.
+Grevillea robusta;Grevillea robusta A.Cunn. ex R.Br.;2891791;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Proteales;Proteaceae;Grevillea;Grevillea robusta;Grevillea robusta;A.Cunn. ex R.Br.
+Albizia saman;Albizia saman (Jacq.) Merr.;2972949;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Samanea;Samanea saman;Albizia saman;(Jacq.) Merr.
+Jacaranda caucana;Jacaranda caucana Pittier;7298785;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Jacaranda;Jacaranda caucana;Jacaranda caucana;Pittier
+Croton gossypiifolius;Croton gossypiifolius Vahl;3059672;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Croton;Croton gossypiifolius;Croton gossypiifolius;Vahl
+Sterculia apetala;Sterculia apetala (Jacq.) Karst.;5406679;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Sterculia;Sterculia apetala;Sterculia apetala;(Jacq.) Karst.
+Ficus binnendijkii;Ficus binnendijkii (Miq.) Miq.;7262699;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus binnendijkii;Ficus binnendijkii;(Miq.) Miq.
+Eugenia pyriformis;Eugenia pyriformis Cambess.;5417616;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Eugenia;Eugenia pyriformis;Eugenia pyriformis;Cambess.
+Fraxinus americana;Fraxinus americana L.;3172327;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Oleaceae;Fraxinus;Fraxinus americana;Fraxinus americana;L.
+Jatropha integerrima;Jatropha integerrima Jacq.;3073017;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Jatropha;Jatropha integerrima;Jatropha integerrima;Jacq.
+Quararibea cordata;Quararibea cordata (Humb. & Bonpl.) García-Barr. & J.Hern.;4073340;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Matisia;Matisia cordata;Quararibea cordata;(Humb. & Bonpl.) García-Barr. & J.Hern.
+Chrysophyllum cainito;Chrysophyllum cainito L.;2885828;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ericales;Sapotaceae;Chrysophyllum;Chrysophyllum cainito;Chrysophyllum cainito;L.
+Syzygium malaccense;Syzygium malaccense (L.) Merr. & L.M.Perry;3184509;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Syzygium;Syzygium malaccense;Syzygium malaccense;(L.) Merr. & L.M.Perry
+Ricinus communis;Ricinus communis L.;5380041;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Ricinus;Ricinus communis;Ricinus communis;L.
+Zanthoxylum rhoifolium;Zanthoxylum rhoifolium Lam.;7269222;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Zanthoxylum;Zanthoxylum rhoifolium;Zanthoxylum rhoifolium;Lam.
+Cordyline fruticosa;Cordyline fruticosa (L.) A.Chev.;2766278;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Cordyline;Cordyline fruticosa;Cordyline fruticosa;(L.) A.Chev.
+Cassia javanica;Cassia javanica L.;5357125;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Cassia;Cassia javanica;Cassia javanica;L.
+Ficus carica;Ficus carica L.;5361909;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus carica;Ficus carica;L.
+Laetia acuminata;Laetia acuminata Bonpl. ex Triana & Planch.;3880225;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Salicaceae;Casearia;Casearia americana;Laetia acuminata;Bonpl. ex Triana & Planch.
+Gardenia grandiflora;Gardenia grandiflora Lour.;5335127;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Gardenia;Gardenia jasminoides;Gardenia grandiflora;Lour.
+Senna siamea;Senna siamea (Lam.) H.S.Irwin & Barneby;2956905;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Senna;Senna siamea;Senna siamea;(Lam.) H.S.Irwin & Barneby
+Swietenia macrophylla;Swietenia macrophylla G.King;3190484;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Swietenia;Swietenia macrophylla;Swietenia macrophylla;G.King
+Cnidoscolus aconitifolius;Cnidoscolus aconitifolius (Mill.) I.M.Johnst.;3073512;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Cnidoscolus;Cnidoscolus aconitifolius;Cnidoscolus aconitifolius;(Mill.) I.M.Johnst.
+Erythrina rubrinervia;Erythrina rubrinervia Kunth;5349665;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Erythrina;Erythrina rubrinervia;Erythrina rubrinervia;Kunth
+Jobo;;;NONE;100;;;;;;;;;;;
+Plumeria pudica;Plumeria pudica Jacq.;3614691;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Plumeria;Plumeria pudica;Plumeria pudica;Jacq.
+Hamelia patens;Hamelia patens Jacq.;2902066;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Hamelia;Hamelia patens;Hamelia patens;Jacq.
+Annona glabra;Annona glabra L.;5407100;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona glabra;Annona glabra;L.
+Veitchia montgomeriana;Veitchia montgomeryana H.E.Moore;5293074;FUZZY;96;SYNONYM;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Veitchia;Veitchia arecina;Veitchia montgomeryana;H.E.Moore
+Lysiloma latisiliquum;Lysiloma latisiliquum (L.) Benth.;2965822;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Lysiloma;Lysiloma latisiliquum;Lysiloma latisiliquum;(L.) Benth.
+Peltogyne paniculata;Peltogyne paniculata Benth.;2952728;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Peltogyne;Peltogyne paniculata;Peltogyne paniculata;Benth.
+Livistona chinensis;Livistona chinensis (Jacq.) R.Br. ex Mart.;2733469;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Livistona;Livistona chinensis;Livistona chinensis;(Jacq.) R.Br. ex Mart.
+Platycladus orientalis;Platycladus orientalis (L.) Franco;2684855;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;Platycladus;Platycladus orientalis;Platycladus orientalis;(L.) Franco
+Cordia sebestena;Cordia sebestena L.;5341289;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Cordiaceae;Cordia;Cordia sebestena;Cordia sebestena;L.
+Ormosia velutina;Ormosia velutina Rudol;7702855;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Ormosia;Ormosia velutina;Ormosia velutina;Rudol
+Bougainvillea glabra;Bougainvillea glabra Choisy;5384862;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Nyctaginaceae;Bougainvillea;Bougainvillea glabra;Bougainvillea glabra;Choisy
+Thevetia peruviana;Thevetia peruviana (Pers.) K.Schum.;5414405;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Cascabela;Cascabela thevetia;Thevetia peruviana;(Pers.) K.Schum.
+Simaba cedron;Simaba cedron Planch.;3708913;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Simaroubaceae;Homalolepis;Homalolepis cedron;Simaba cedron;Planch.
+Matayba elegans;Matayba elegans Radlk.;3784371;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;Matayba;Matayba elegans;Matayba elegans;Radlk.
+Photinia xfraseri;Photinia Lindl.;3000268;HIGHERRANK;92;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;Photinia;;Photinia;Lindl.
+Ficus cyathistipula;Ficus cyathistipula Warb.;7262354;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus cyathistipula;Ficus cyathistipula;Warb.
+Posoqueria latifolia;Posoqueria latifolia (Rudge) Schult.;2893899;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Posoqueria;Posoqueria latifolia;Posoqueria latifolia;(Rudge) Schult.
+Magnolia delavayi;Magnolia delavayi Franch.;3153656;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Magnoliaceae;Magnolia;Magnolia delavayi;Magnolia delavayi;Franch.
+Annona reticulata;Annona reticulata L.;5407123;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona reticulata;Annona reticulata;L.
+Cordia lutea;Cordia lutea Lam.;5661644;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Boraginales;Cordiaceae;Cordia;Cordia lutea;Cordia lutea;Lam.
+Acalypha amentacea;Acalypha amentacea Roxb.;3057201;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Acalypha;Acalypha amentacea;Acalypha amentacea;Roxb.
+Averrhoa carambola;Averrhoa carambola L.;2891641;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Oxalidales;Oxalidaceae;Averrhoa;Averrhoa carambola;Averrhoa carambola;L.
+Terminalia amazonia;Terminalia amazonia (J.F.Gmel.) Exell;3699754;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Combretaceae;Terminalia;Terminalia amazonia;Terminalia amazonia;(J.F.Gmel.) Exell
+Senna reticulata;Senna reticulata (Willd.) H.S.Irwin & Barneby;2957303;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Senna;Senna reticulata;Senna reticulata;(Willd.) H.S.Irwin & Barneby
+Hamamelis mollis;Hamamelis mollis Oliv.;7889215;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Saxifragales;Hamamelidaceae;Hamamelis;Hamamelis mollis;Hamamelis mollis;Oliv.
+Cupania americana;Cupania americana L.;3189961;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;Cupania;Cupania americana;Cupania americana;L.
+Bursera simaruba;Bursera simaruba (L.) Sarg.;3190450;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Burseraceae;Bursera;Bursera simaruba;Bursera simaruba;(L.) Sarg.
+Polyscias scutellaria;Polyscias scutellaria (Burm.f.) Fosberg;3035778;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Polyscias;Polyscias scutellaria;Polyscias scutellaria;(Burm.f.) Fosberg
+Cedrela odorata;Cedrela odorata L.;3190511;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Cedrela;Cedrela odorata;Cedrela odorata;L.
+Senna mexicana;Senna mexicana (Jacq.) H.S.Irwin & Barneby;2957605;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Senna;Senna mexicana;Senna mexicana;(Jacq.) H.S.Irwin & Barneby
+Persea caerulea;Persea caerulea (Ruiz & Pav.) Mez;4175764;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Persea;Persea caerulea;Persea caerulea;(Ruiz & Pav.) Mez
+Spondias mombin;Spondias mombin Jacq.;8185571;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;Spondias;Spondias mombin;Spondias mombin;Jacq.
+Ficus elastica;Ficus elastica Roxb.;7835333;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus elastica;Ficus elastica;Roxb.
+Annona cherimola;Annona cherimola Mill.;5407147;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona cherimola;Annona cherimola;Mill.
+Palicuria sp;Palicuria Raf.;3848579;HIGHERRANK;92;DOUBTFUL;GENUS;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Palicuria;;Palicuria;Raf.
+Ficus rubiginosa;Ficus rubiginosa Desf.;7589157;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus rubiginosa;Ficus rubiginosa;Desf.
+Gynerium sagittatum;Gynerium sagittatum (Aubl.) P.Beauv.;5289743;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;Gynerium;Gynerium sagittatum;Gynerium sagittatum;(Aubl.) P.Beauv.
+Roystonea oleracea;Roystonea oleracea (Jacq.) O.F.Cook;2733738;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Roystonea;Roystonea oleracea;Roystonea oleracea;(Jacq.) O.F.Cook
+Peltophorum pterocarpum;Peltophorum pterocarpum (DC.) Backer ex K.Heyne;2952775;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Peltophorum;Peltophorum pterocarpum;Peltophorum pterocarpum;(DC.) Backer ex K.Heyne
+Cananga odorata;Cananga odorata (Lam.) Hook.f. & Thomson;5407583;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Cananga;Cananga odorata;Cananga odorata;(Lam.) Hook.f. & Thomson
+Caryota mitis;Caryota mitis Lour.;2738902;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Caryota;Caryota mitis;Caryota mitis;Lour.
+Cycas revoluta;Cycas revoluta Thunb.;2683217;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Cycadopsida;Cycadales;Cycadaceae;Cycas;Cycas revoluta;Cycas revoluta;Thunb.
+Ficus dendrocida;Ficus dendrocida Kunth;5572579;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus dendrocida;Ficus dendrocida;Kunth
+miconia squamulosa;Miconia squamulosa (Sm.) Triana;3866257;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Melastomataceae;Miconia;Miconia squamulosa;Miconia squamulosa;(Sm.) Triana
+Pimenta racemosa;Pimenta racemosa (Mill.) J.W.Moore;3186096;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Pimenta;Pimenta racemosa;Pimenta racemosa;(Mill.) J.W.Moore
+Casuarina equisetifolia;Casuarina equisetifolia L.;2891930;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fagales;Casuarinaceae;Casuarina;Casuarina equisetifolia;Casuarina equisetifolia;L.
+Euterpe cuatrecasana;Euterpe cuatrecasana Dugand;5293402;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Euterpe;Euterpe oleracea;Euterpe cuatrecasana;Dugand
+Pandanus utilis;Pandanus utilis Bory;5327557;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Pandanales;Pandanaceae;Pandanus;Pandanus utilis;Pandanus utilis;Bory
+Dypsis lutescens;Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.;2735935;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Dypsis;Dypsis lutescens;Dypsis lutescens;(H.Wendl.) Beentje & J.Dransf.
+Rollinia mucosa;Rollinia mucosa (Jacq.) Baill.;3158590;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona mucosa;Rollinia mucosa;(Jacq.) Baill.
+Crescentia cujete;Crescentia cujete L.;5415081;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Crescentia;Crescentia cujete;Crescentia cujete;L.
+Citrus sinensis;Citrus sinensis (Mill.) Pers., 1806;3190158;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Citrus;Citrus aurantium;Citrus sinensis;(Mill.) Pers., 1806
+Ficus tolimensi;Ficus tolimensis Standl.;5572457;FUZZY;94;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus popenoei;Ficus tolimensis;Standl.
+Miconia chlorocarpa;Miconia chlorocarpa Cogn.;3870247;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Melastomataceae;Miconia;Miconia chlorocarpa;Miconia chlorocarpa;Cogn.
+Citrus lemon;Citrus lemon L.;10989409;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Citrus;Citrus limon;Citrus lemon;L.
+Pinus radiata;Pinus radiata D.Don;5285727;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;Pinus;Pinus radiata;Pinus radiata;D.Don
+Mimosa quitensis;Mimosa quitensis Benth.;2969633;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Mimosa;Mimosa quitensis;Mimosa quitensis;Benth.
+Delonix regia;Delonix regia (Bojer ex Hook.) Raf.;2956176;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Delonix;Delonix regia;Delonix regia;(Bojer ex Hook.) Raf.
+Tabebuia heterophylla;Tabebuia heterophylla (DC.) Britton;3172526;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Tabebuia;Tabebuia heterophylla;Tabebuia heterophylla;(DC.) Britton
+Couroupita guianensis;Couroupita guianensis Aubl.;3082562;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ericales;Lecythidaceae;Couroupita;Couroupita guianensis;Couroupita guianensis;Aubl.
+Gustavia speciosa;Gustavia speciosa (Kunth) DC.;5383796;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ericales;Lecythidaceae;Gustavia;Gustavia speciosa;Gustavia speciosa;(Kunth) DC.
+Caesalpinia peltophoroides;Caesalpinia peltophoroides Benth.;2958611;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Cenostigma;Cenostigma pluviosum;Caesalpinia peltophoroides;Benth.
+Phyllanthus acidus;Phyllanthus acidus (L.) Skeels;5381567;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Phyllanthaceae;Phyllanthus;Phyllanthus acidus;Phyllanthus acidus;(L.) Skeels
+Piper aduncum;Piper aduncum L.;3086337;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Piperales;Piperaceae;Piper;Piper aduncum;Piper aduncum;L.
+Euterpe precatoria;Euterpe precatoria Mart.;5293425;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Euterpe;Euterpe precatoria;Euterpe precatoria;Mart.
+Santalum album;Santalum album L.;2889785;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Santalales;Santalaceae;Santalum;Santalum album;Santalum album;L.
+Euphorbia milii;Euphorbia milii Des Moul.;3067157;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Euphorbia;Euphorbia milii;Euphorbia milii;Des Moul.
+Trichanthera gigantea;Trichanthera gigantea Humb. & Bonpl. ex Steud.;7263447;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Acanthaceae;Trichanthera;Trichanthera gigantea;Trichanthera gigantea;Humb. & Bonpl. ex Steud.
+Murraya paniculata;Murraya paniculata (L.) Jacq.;8190743;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Murraya;Murraya paniculata;Murraya paniculata;(L.) Jacq.
+Pinus patula;Pinus patula Schiede ex Schltdl. & Cham.;5285090;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;Pinus;Pinus patula;Pinus patula;Schiede ex Schltdl. & Cham.
+Eucalyptus camaldulensis;Eucalyptus camaldulensis Dehnh.;3176197;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Eucalyptus;Eucalyptus camaldulensis;Eucalyptus camaldulensis;Dehnh.
+Sapindus saponaria;Sapindus saponaria L.;8017915;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;Sapindus;Sapindus saponaria;Sapindus saponaria;L.
+Cocos nucifera;Cocos nucifera L.;2735117;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Cocos;Cocos nucifera;Cocos nucifera;L.
+Melicoccus bijugatus;Melicoccus bijugatus Jacq.;3189990;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;Melicoccus;Melicoccus bijugatus;Melicoccus bijugatus;Jacq.
+Psidium friedrichsthalianum;Psidium friedrichsthalianum (Berg) Nied.;5420358;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Psidium;Psidium friedrichsthalianum;Psidium friedrichsthalianum;(Berg) Nied.
+Sambucus nigra;Sambucus nigra L.;2888728;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Dipsacales;Adoxaceae;Sambucus;Sambucus nigra;Sambucus nigra;L.
+Coccoloba uvifera;Coccoloba uvifera (L.) L.;2888831;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;Coccoloba;Coccoloba uvifera;Coccoloba uvifera;(L.) L.
+Elaeis guineensis;Elaeis guineensis Jacq.;2731882;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Elaeis;Elaeis guineensis;Elaeis guineensis;Jacq.
+Catalpa longissima;Catalpa longissima (Jacq.) Dum.Cours.;3172614;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Catalpa;Catalpa longissima;Catalpa longissima;(Jacq.) Dum.Cours.
+Ochna thomasiana;Ochna thomasiana Engl. & Gilg ex Gilg;3189677;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Ochnaceae;Ochna;Ochna thomasiana;Ochna thomasiana;Engl. & Gilg ex Gilg
+Luma apiculata;Luma apiculata (DC.) Burret;5420309;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Luma;Luma apiculata;Luma apiculata;(DC.) Burret
+Baccharis sp;Baccharis L.;3129135;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;Baccharis;;Baccharis;L.
+Areca catechu;Areca catechu L.;2736531;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Areca;Areca catechu;Areca catechu;L.
+Senna pistaciifolia;Senna pistaciifolia (Kunth) H.S.Irwin & Barneby;2956999;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Senna;Senna pistaciifolia;Senna pistaciifolia;(Kunth) H.S.Irwin & Barneby
+Annona muricata;Annona muricata L.;5407273;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Annona;Annona muricata;Annona muricata;L.
+Syzygium jambos;Syzygium jambos (L.) Alston;3183534;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Syzygium;Syzygium jambos;Syzygium jambos;(L.) Alston
+Calliandra purdiei;Calliandra purdiei Benth.;2982326;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Calliandra;Calliandra purdiei;Calliandra purdiei;Benth.
+Ficus religiosa;Ficus religiosa L.;5361935;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus religiosa;Ficus religiosa;L.
+Albizia julibrissin;Albizia julibrissin Durazz.;2972983;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Albizia;Albizia julibrissin;Albizia julibrissin;Durazz.
+Ficus benjamina;Ficus benjamina L.;5361932;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus benjamina;Ficus benjamina;L.
+Tamarindus indica;Tamarindus indica L.;2975768;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Tamarindus;Tamarindus indica;Tamarindus indica;L.
+Theobroma cacao;Theobroma cacao L.;3152205;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Theobroma;Theobroma cacao;Theobroma cacao;L.
+Triplaris weigeltiana;Triplaris weigeltiana (Rchb.) Kuntze;4037419;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Polygonaceae;Triplaris;Triplaris weigeltiana;Triplaris weigeltiana;(Rchb.) Kuntze
+Guaiacum officinale;Guaiacum officinale L.;3986813;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Zygophyllales;Zygophyllaceae;Guaiacum;Guaiacum officinale;Guaiacum officinale;L.
+Calliandra schultzei;Calliandra schultzei Harms;2982276;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Calliandra;Calliandra riparia;Calliandra schultzei;Harms
+Senna spectabilis;Senna spectabilis (DC.) H.S.Irwin & Barneby;2957438;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Senna;Senna spectabilis;Senna spectabilis;(DC.) H.S.Irwin & Barneby
+Miconia spicellata;Miconia spicellata Bonpl. ex Naudin;3866430;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Melastomataceae;Miconia;Miconia spicellata;Miconia spicellata;Bonpl. ex Naudin
+Archontophoenix alexandrae;Archontophoenix alexandrae (F.Muell.) H.Wendl. & Drude;2732609;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Archontophoenix;Archontophoenix alexandrae;Archontophoenix alexandrae;(F.Muell.) H.Wendl. & Drude
+Muntingia calabura;Muntingia calabura L.;3152036;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Muntingiaceae;Muntingia;Muntingia calabura;Muntingia calabura;L.
+Moringa oleifera;Moringa oleifera Lam.;3054181;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Moringaceae;Moringa;Moringa oleifera;Moringa oleifera;Lam.
+Sin Identificar;;;NONE;100;;;;;;;;;;;
+Plumeria tricolor;Plumeria tricolor Ruiz & Pav.;3169675;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Plumeria;Plumeria rubra;Plumeria tricolor;Ruiz & Pav.
+Ochroma pyramidale;Ochroma pyramidale (Cav.) Urb.;3152240;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Ochroma;Ochroma pyramidale;Ochroma pyramidale;(Cav.) Urb.
+Ficus lyrata;Ficus lyrata Warb.;5361899;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus lyrata;Ficus lyrata;Warb.
+Albizia guachapele;Albizia guachapele (Kunth) Dugand;2972922;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Pseudosamanea;Pseudosamanea guachapele;Albizia guachapele;(Kunth) Dugand
+Calliandra tweedii;Calliandra tweedii Benth.;2982053;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Calliandra;Calliandra tweedii;Calliandra tweedii;Benth.
+Monlanoa ovitafolia;;;NONE;100;;;;;;;;;;;
+Retrophyllum rospigliosii;Retrophyllum rospigliosii (Pilg.) C.N.Page;2687731;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Podocarpaceae;Retrophyllum;Retrophyllum rospigliosii;Retrophyllum rospigliosii;(Pilg.) C.N.Page
+Artocarpus heterophyllus;Artocarpus heterophyllus Lam.;2984565;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Artocarpus;Artocarpus heterophyllus;Artocarpus heterophyllus;Lam.
+Bucida buceras;Bucida L.;3189408;HIGHERRANK;94;SYNONYM;GENUS;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Combretaceae;Terminalia;;Bucida;L.
+Dracaena surculosa;Dracaena surculosa Lindl.;5304547;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena surculosa;Dracaena surculosa;Lindl.
+Ficus tonduzii;Ficus tonduzii Standl.;5572425;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus tonduzii;Ficus tonduzii;Standl.
+Arundinaria nitida;Arundinaria nitida Hort.Kew;7373566;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;Arundinaria;Arundinaria nitida;Arundinaria nitida;Hort.Kew
+Juniperus rigida;Juniperus rigida Siebold & Zucc.;2684517;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;Juniperus;Juniperus rigida;Juniperus rigida;Siebold & Zucc.
+Syzygium cumini;Syzygium cumini (L.) Skeels;3183840;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Syzygium;Syzygium cumini;Syzygium cumini;(L.) Skeels
+Dracaena arborea;Dracaena arborea (Willd.) Link;5304485;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena arborea;Dracaena arborea;(Willd.) Link
+Terminalia ivorensis;Terminalia ivorensis A.Chev.;3189389;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Combretaceae;Terminalia;Terminalia ivorensis;Terminalia ivorensis;A.Chev.
+Tabebuia ochracea;Tabebuia ochracea A.H.Gentry;7880545;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Tabebuia;Tabebuia ochracea;Tabebuia ochracea;A.H.Gentry
+Brownea ariza;Brownea ariza Benth.;2970445;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Brownea;Brownea ariza;Brownea ariza;Benth.
+Heliocarpus popayanensis;Heliocarpus popayanensis Kunth;3152063;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Heliocarpus;Heliocarpus americanus;Heliocarpus popayanensis;Kunth
+Tetrorchidium rubrivenium;Tetrorchidium rubrivenium Poepp.;3062925;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Tetrorchidium;Tetrorchidium rubrivenium;Tetrorchidium rubrivenium;Poepp.
+Livistona decipiens;Livistona decipiens Becc.;2733449;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Livistona;Livistona decora;Livistona decipiens;Becc.
+Galphimia gracilis;Galphimia gracilis Bartl.;3191272;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Malpighiaceae;Galphimia;Galphimia gracilis;Galphimia gracilis;Bartl.
+Fraxinus chinensis;Fraxinus chinensis Roxb.;3172325;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Oleaceae;Fraxinus;Fraxinus chinensis;Fraxinus chinensis;Roxb.
+Chamaedorea tepejilote;Chamaedorea tepejilote Liebm.;2734551;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Chamaedorea;Chamaedorea tepejilote;Chamaedorea tepejilote;Liebm.
+Livistona drudei;Livistona drudei F.Muell. ex Drude;2733422;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Livistona;Livistona drudei;Livistona drudei;F.Muell. ex Drude
+Polyscias fruticosa;Polyscias fruticosa (L.) Harms;3035652;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Polyscias;Polyscias fruticosa;Polyscias fruticosa;(L.) Harms
+Huertea granadina;Huertea granadina Cuatrec.;3686243;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Huerteales;Tapisciaceae;Huertea;Huertea granadina;Huertea granadina;Cuatrec.
+Blighia sapida;Blighia sapida K.D.Koenig;3189955;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Sapindaceae;Blighia;Blighia sapida;Blighia sapida;K.D.Koenig
+Cascabela thevetia;Cascabela thevetia (L.) Lippold;3169652;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Cascabela;Cascabela thevetia;Cascabela thevetia;(L.) Lippold
+Allamanda cathartica;Allamanda cathartica L.;3169836;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Allamanda;Allamanda cathartica;Allamanda cathartica;L.
+Hibiscus mutabilis;Hibiscus mutabilis L.;3152555;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Hibiscus;Hibiscus mutabilis;Hibiscus mutabilis;L.
+Cestrum nocturnum;Cestrum nocturnum L.;2928791;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;Cestrum;Cestrum nocturnum;Cestrum nocturnum;L.
+Pereskia grandiflora;Pereskia grandiflora Pfeiff.;5620682;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Cactaceae;Pereskia;Pereskia grandifolia;Pereskia grandiflora;Pfeiff.
+Luehea seemannii;Luehea seemannii Planch. & Triana;7149790;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Luehea;Luehea seemannii;Luehea seemannii;Planch. & Triana
+Hasseltia floribunda;Hasseltia floribunda Kunth;7760145;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Salicaceae;Hasseltia;Hasseltia floribunda;Hasseltia floribunda;Kunth
+Hura crepitans;Hura crepitans L.;5380015;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Hura;Hura crepitans;Hura crepitans;L.
+Cupressus sempervirens;Cupressus sempervirens L.;2684030;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Cupressaceae;Cupressus;Cupressus sempervirens;Cupressus sempervirens;L.
+Polyscias filicifolia;Polyscias filicifolia (C.Moore ex E.Fourn.) L.H.Bailey;3035611;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Polyscias;Polyscias filicifolia;Polyscias filicifolia;(C.Moore ex E.Fourn.) L.H.Bailey
+Cajanus cajan;Cajanus cajan (L.) Huth;7587087;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Cajanus;Cajanus cajan;Cajanus cajan;(L.) Huth
+Bulnesia carrapo;Bulnesia carrapo Killip & Dugand;3987062;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Zygophyllales;Zygophyllaceae;Gonopterodendron;Gonopterodendron carrapo;Bulnesia carrapo;Killip & Dugand
+Pithecellobium lanceolatum;Pithecellobium lanceolatum (Humb. & Bonpl. ex Willd.) Benth.;2962824;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Pithecellobium;Pithecellobium lanceolatum;Pithecellobium lanceolatum;(Humb. & Bonpl. ex Willd.) Benth.
+Lagerstroemia indica;Lagerstroemia indica L.;3188725;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Lythraceae;Lagerstroemia;Lagerstroemia indica;Lagerstroemia indica;L.
+Huertea glandulosa;Huertea glandulosa Ruiz & Pav.;3686262;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Huerteales;Tapisciaceae;Huertea;Huertea glandulosa;Huertea glandulosa;Ruiz & Pav.
+Cyrtostachys renda;Cyrtostachys renda Blume;2735421;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Cyrtostachys;Cyrtostachys renda;Cyrtostachys renda;Blume
+Morus alba;Morus alba L.;5361889;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Morus;Morus alba;Morus alba;L.
+Acca sellowiana;Acca sellowiana (Berg) Burret;5418629;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Feijoa;Feijoa sellowiana;Acca sellowiana;(Berg) Burret
+Washingtonia filifera;Washingtonia filifera (Rafarin) H.Wendl. ex de Bary;5294589;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Washingtonia;Washingtonia filifera;Washingtonia filifera;(Rafarin) H.Wendl. ex de Bary
+Chloroleucon mangense;Chloroleucon mangense (Jacq.) Britton & Rose;2943053;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Chloroleucon;Chloroleucon mangense;Chloroleucon mangense;(Jacq.) Britton & Rose
+Schinus terebinthifolia;Schinus terebinthifolia Raddi;3660419;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;Schinus;Schinus terebinthifolia;Schinus terebinthifolia;Raddi
+Duranta erecta;Duranta erecta L.;2925655;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Verbenaceae;Duranta;Duranta erecta;Duranta erecta;L.
+Hyiphorbe verschaffeltii;Hyophorbe verschaffeltii H.Wendl.;2735589;FUZZY;85;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Hyophorbe;Hyophorbe verschaffeltii;Hyophorbe verschaffeltii;H.Wendl.
+Senecio formosus;Senecio formosus Kunth;3107233;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Asterales;Asteraceae;Senecio;Senecio formosus;Senecio formosus;Kunth
+Erythrina variegata;Erythrina variegata L.;5349581;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Erythrina;Erythrina variegata;Erythrina variegata;L.
+Cinnamomum triplinerve;Cinnamomum triplinerve (Ruiz & Pav.) Kosterm.;4179448;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Aiouea;Aiouea montana;Cinnamomum triplinerve;(Ruiz & Pav.) Kosterm.
+Myrcia popayanensis;Myrcia popayanensis Hieron.;3173930;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Myrcia;Myrcia popayanensis;Myrcia popayanensis;Hieron.
+Guarea sp;Guarea L.;3190499;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Guarea;;Guarea;L.
+Roystonea regia;Roystonea regia (Kunth) O.F.Cook;2733755;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Roystonea;Roystonea regia;Roystonea regia;(Kunth) O.F.Cook
+Lafoensia acuminata;Lafoensia acuminata (Ruiz & Pav.) DC.;3989776;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Lythraceae;Lafoensia;Lafoensia acuminata;Lafoensia acuminata;(Ruiz & Pav.) DC.
+Ficus clusiifolia;Ficus clusiifolia Schott ex Spreng., 1827;10720567;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus clusiifolia;Ficus clusiifolia;Schott ex Spreng., 1827
+Prosopis juliflora;Prosopis juliflora (Sw.) DC.;5358460;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Prosopis;Prosopis juliflora;Prosopis juliflora;(Sw.) DC.
+Couratari guianensis;Couratari guianensis Aubl.;3083111;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ericales;Lecythidaceae;Couratari;Couratari guianensis;Couratari guianensis;Aubl.
+Borojoa patinoi;Borojoa patinoi Cuatrec.;2919729;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Alibertia;Alibertia patinoi;Borojoa patinoi;Cuatrec.
+Phoenix robellina;Phoenix L.;2732076;HIGHERRANK;92;ACCEPTED;GENUS;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Phoenix;;Phoenix;L.
+Juglans cinerea;Juglans cinerea L.;3054352;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fagales;Juglandaceae;Juglans;Juglans cinerea;Juglans cinerea;L.
+Ocotea sp;Ocotea Aubl.;3034076;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Ocotea;;Ocotea;Aubl.
+Jacaranda obtusifolia;Jacaranda obtusifolia Humb. & Bonpl.;7298634;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Jacaranda;Jacaranda obtusifolia;Jacaranda obtusifolia;Humb. & Bonpl.
+Quadrella odoratissima;Quadrella odoratissima (Jacq.) Hutch.;5601696;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Brassicales;Capparaceae;Quadrella;Quadrella odoratissima;Quadrella odoratissima;(Jacq.) Hutch.
+Dracaena marginata;Dracaena marginata Lem.;10818704;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena marginata;Dracaena marginata;Lem.
+Podacarpus oleifolius;Podocarpus oleifolius D.Don;5286006;FUZZY;85;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Podocarpaceae;Podocarpus;Podocarpus oleifolius;Podocarpus oleifolius;D.Don
+Handroanthus serratifolius;Handroanthus serratifolius (Vahl) S.O.Grose;4092017;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Handroanthus;Handroanthus serratifolius;Handroanthus serratifolius;(Vahl) S.O.Grose
+Ficus crassinervia;Ficus crassinervia Desf. ex Willd.;5361897;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Ficus;Ficus crassinervia;Ficus crassinervia;Desf. ex Willd.
+Pereskia bleo;Pereskia bleo (Kunth) DC.;5620749;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Caryophyllales;Cactaceae;Pereskia;Pereskia bleo;Pereskia bleo;(Kunth) DC.
+Ficus sp;;;NONE;100;;;;;;;;;;;
+Bombacopsis quinata;Bombacopsis quinata (Jacq.) Dugand;4073865;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Pachira;Pachira quinata;Bombacopsis quinata;(Jacq.) Dugand
+Schizolobium parahyba;Schizolobium parahyba (Vell.) S.F.Blake;2945453;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Schizolobium;Schizolobium parahyba;Schizolobium parahyba;(Vell.) S.F.Blake
+Vernicia fordii;Vernicia fordii (Hemsl.) Airy Shaw;3074906;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Vernicia;Vernicia fordii;Vernicia fordii;(Hemsl.) Airy Shaw
+Pachira speciosa;Pachira speciosa Triana & Planch.;4073534;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Pachira;Pachira speciosa;Pachira speciosa;Triana & Planch.
+Spondias dulcis;Spondias dulcis Sol. ex G.Forst.;7554845;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;Spondias;Spondias dulcis;Spondias dulcis;Sol. ex G.Forst.
+Schefflera morototoni;Schefflera morototoni (Aubl.) Maguire, Steyerm. & Frodin;3038503;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Araliaceae;Schefflera;Schefflera morototoni;Schefflera morototoni;(Aubl.) Maguire, Steyerm. & Frodin
+Trichilia goudotiana;Trichilia goudotiana Triana & Planch.;3850593;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Meliaceae;Trichilia;Trichilia pallida;Trichilia goudotiana;Triana & Planch.
+Archontophoenix cunninghamiana;Archontophoenix cunninghamiana (H.Wendl.) H.Wendl. & Drude;2732621;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;Archontophoenix cunninghamiana;(H.Wendl.) H.Wendl. & Drude
+Bauhinia purpurea;Bauhinia purpurea L.;2953871;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Bauhinia;Bauhinia purpurea;Bauhinia purpurea;L.
+Uncaria tomentosa;Uncaria tomentosa (Willd. ex Schult.) DC.;5338267;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Uncaria;Uncaria tomentosa;Uncaria tomentosa;(Willd. ex Schult.) DC.
+Hymenaea courbaril;Hymenaea courbaril L.;2950750;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Hymenaea;Hymenaea courbaril;Hymenaea courbaril;L.
+Eriobotrya japonica;Eriobotrya japonica (Thunb.) Lindl.;3024146;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;Rhaphiolepis;Rhaphiolepis loquata;Eriobotrya japonica;(Thunb.) Lindl.
+Citrus aurantifolia;Citrus ×aurantiifolia (Christm.) Swingle;3190164;FUZZY;96;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Rutaceae;Citrus;Citrus aurantiifolia;Citrus aurantiifolia;(Christm.) Swingle
+Aiphanes horrida;Aiphanes horrida (Jacq.) Burret;2738639;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Aiphanes;Aiphanes horrida;Aiphanes horrida;(Jacq.) Burret
+Plumeria alba;Plumeria alba L.;3169673;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Plumeria;Plumeria alba;Plumeria alba;L.
+Eugania aggregata;;;NONE;100;;;;;;;;;;;
+Bauhinia variegata;Bauhinia variegata L.;2953251;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Bauhinia;Bauhinia variegata;Bauhinia variegata;L.
+Xylopia ligustrifolia;Xylopia ligustrifolia Humb. & Bonpl. ex Dunal;3157016;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Magnoliales;Annonaceae;Xylopia;Xylopia ligustrifolia;Xylopia ligustrifolia;Humb. & Bonpl. ex Dunal
+Rosa sp.;Rosa L.;8395064;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Rosales;Rosaceae;Rosa;;Rosa;L.
+Ptychosperma elegans;Ptychosperma elegans (R.Br.) Blume;2733861;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Ptychosperma;Ptychosperma elegans;Ptychosperma elegans;(R.Br.) Blume
+Guazuma ulmifolia;Guazuma ulmifolia Lam.;3152195;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Guazuma;Guazuma ulmifolia;Guazuma ulmifolia;Lam.
+Licania tomentosa;Licania tomentosa (Benth.) Fritsch;2985499;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Chrysobalanaceae;Moquilea;Moquilea tomentosa;Licania tomentosa;(Benth.) Fritsch
+Burugmancia aurea;;;NONE;100;;;;;;;;;;;
+Mussaenda erythrophylla;Mussaenda erythrophylla Schumach. & Thonn.;2892634;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Mussaenda;Mussaenda erythrophylla;Mussaenda erythrophylla;Schumach. & Thonn.
+Ravenala madagascariensis;Ravenala madagascariensis Sonn.;2763095;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Zingiberales;Strelitziaceae;Ravenala;Ravenala madagascariensis;Ravenala madagascariensis;Sonn.
+Malpighia glabra;Malpighia glabra L.;5421429;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Malpighiaceae;Malpighia;Malpighia glabra;Malpighia glabra;L.
+Chamaedorea seifrizii;Chamaedorea seifrizii Burret;2734708;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Chamaedorea;Chamaedorea seifrizii;Chamaedorea seifrizii;Burret
+Nerium oleander;Nerium oleander L.;3169756;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Apocynaceae;Nerium;Nerium oleander;Nerium oleander;L.
+Codiaeum variegatum;Codiaeum variegatum (L.) Rumph. ex A.Juss.;3071476;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Codiaeum;Codiaeum variegatum;Codiaeum variegatum;(L.) Rumph. ex A.Juss.
+Dracaena fragrans;Dracaena fragrans (L.) Ker Gawl.;5304583;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Asparagales;Asparagaceae;Dracaena;Dracaena fragrans;Dracaena fragrans;(L.) Ker Gawl.
+Pritchardia pacifica;Pritchardia pacifica Seem. & H.Wendl.;5294627;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Pritchardia;Pritchardia pacifica;Pritchardia pacifica;Seem. & H.Wendl.
+Myrcia selloi;Myrcia selloi (Spreng.) N.Silveira;3173954;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Myrtaceae;Myrcia;Myrcia selloi;Myrcia selloi;(Spreng.) N.Silveira
+Maclura tinctoria;Maclura tinctoria (L.) D.Don ex Steud.;2984583;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Moraceae;Maclura;Maclura tinctoria;Maclura tinctoria;(L.) D.Don ex Steud.
+Pittosporum undulatum;Pittosporum undulatum Vent.;2986239;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Apiales;Pittosporaceae;Pittosporum;Pittosporum undulatum;Pittosporum undulatum;Vent.
+Calliandra pittieri;Calliandra pittieri Standl.;2981948;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Calliandra;Calliandra pittieri;Calliandra pittieri;Standl.
+Cecropia angustifolia;Cecropia angustifolia Trécul;4013465;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Rosales;Urticaceae;Cecropia;Cecropia angustifolia;Cecropia angustifolia;Trécul
+Ixora coccinea;Ixora coccinea L.;2905493;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Ixora;Ixora coccinea;Ixora coccinea;L.
+Pinus caribaea;Pinus caribaea Morelet;5285740;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;Pinus;Pinus caribaea;Pinus caribaea;Morelet
+Juglans neotropica;Juglans neotropica Diels;3054364;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fagales;Juglandaceae;Juglans;Juglans neotropica;Juglans neotropica;Diels
+Phoenix canariensis;Phoenix canariensis H.Wildpret;7445284;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Phoenix;Phoenix canariensis;Phoenix canariensis;H.Wildpret
+Guadua angustifolia;Guadua angustifolia Kunth;4155017;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;Guadua;Guadua angustifolia;Guadua angustifolia;Kunth
+Galphimia glauca;Galphimia glauca Cav.;7122389;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Malpighiaceae;Galphimia;Galphimia glauca;Galphimia glauca;Cav.
+Cinnamomum cinnamomifolium;Cinnamomum cinnamomifolium (Kunth) Kosterm.;4176713;EXACT;98;SYNONYM;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Aiouea;Aiouea montana;Cinnamomum cinnamomifolium;(Kunth) Kosterm.
+Cymbopogon citratus;Cymbopogon citratus (DC.) Stapf;2705275;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Poales;Poaceae;Cymbopogon;Cymbopogon citratus;Cymbopogon citratus;(DC.) Stapf
+Pachira insignes;Pachira insignis (Sw.) Sav.;3152236;FUZZY;93;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malvales;Malvaceae;Pachira;Pachira insignis;Pachira insignis;(Sw.) Sav.
+Adenaria sp;Adenaria Kunth;7286104;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Lythraceae;Adenaria;;Adenaria;Kunth
+Pinus oocarpa;Pinus oocarpa Schiede ex Schltdl.;5285220;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Pinaceae;Pinus;Pinus oocarpa;Pinus oocarpa;Schiede ex Schltdl.
+Rhapis excelsa;Rhapis excelsa (Thunb.) A.Henry;2736747;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Rhapis;Rhapis excelsa;Rhapis excelsa;(Thunb.) A.Henry
+Enterolobium cyclocarpum;Enterolobium cyclocarpum (Jacq.) Griseb.;2961150;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Enterolobium;Enterolobium cyclocarpum;Enterolobium cyclocarpum;(Jacq.) Griseb.
+Dypsis madagascariensis;Dypsis madagascariensis (Becc.) Beentje & J.Dransf.;3593724;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Dypsis;Dypsis madagascariensis;Dypsis madagascariensis;(Becc.) Beentje & J.Dransf.
+Manilkara zapota;Manilkara zapota (L.) P.Royen;2885158;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Ericales;Sapotaceae;Manilkara;Manilkara zapota;Manilkara zapota;(L.) P.Royen
+Araucaria excelsa;Araucaria excelsa (Lamb.) R.Br.;2684925;EXACT;97;SYNONYM;SPECIES;Plantae;Tracheophyta;Pinopsida;Pinales;Araucariaceae;Araucaria;Araucaria columnaris;Araucaria excelsa;(Lamb.) R.Br.
+Garcinia madruno;Garcinia madruno (Kunth) Hammel;3713863;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Clusiaceae;Garcinia;Garcinia madruno;Garcinia madruno;(Kunth) Hammel
+Leucaena leucocephala;Leucaena leucocephala (Lam.) de Wit;2970418;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Leucaena;Leucaena leucocephala;Leucaena leucocephala;(Lam.) de Wit
+Byrsonima spicata;Byrsonima spicata (Cav.) DC.;3191348;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Malpighiaceae;Byrsonima;Byrsonima spicata;Byrsonima spicata;(Cav.) DC.
+Erythrina edulis;Erythrina edulis Triana ex Micheli;5349541;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Fabales;Fabaceae;Erythrina;Erythrina edulis;Erythrina edulis;Triana ex Micheli
+Punica granatum;Punica granatum L.;5420901;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Lythraceae;Punica;Punica granatum;Punica granatum;L.
+Randia aculeata;Randia aculeata L.;5339488;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Gentianales;Rubiaceae;Randia;Randia aculeata;Randia aculeata;L.
+Caryodendron orinocense;Caryodendron orinocense H.Karst.;3055897;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Malpighiales;Euphorbiaceae;Caryodendron;Caryodendron orinocense;Caryodendron orinocense;H.Karst.
+Nectandra reticulata;Nectandra reticulata (Ruiz & Pav.) Mez;5685985;EXACT;97;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Laurales;Lauraceae;Nectandra;Nectandra reticulata;Nectandra reticulata;(Ruiz & Pav.) Mez
+Tecoma stans;Tecoma stans (L.) Juss. ex Kunth;3172492;EXACT;98;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Lamiales;Bignoniaceae;Tecoma;Tecoma stans;Tecoma stans;(L.) Juss. ex Kunth
+Brunfelsia uniflora;Brunfelsia uniflora (Pohl) D.Don;2932913;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Solanales;Solanaceae;Brunfelsia;Brunfelsia uniflora;Brunfelsia uniflora;(Pohl) D.Don
+Attalea butyracea;Attalea butyracea (Mutis ex L.f.) Wess.Boer;2732721;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Liliopsida;Arecales;Arecaceae;Attalea;Attalea butyracea;Attalea butyracea;(Mutis ex L.f.) Wess.Boer
+Anacardium occidentale;Anacardium occidentale L.;5421368;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;Anacardium;Anacardium occidentale;Anacardium occidentale;L.
+Tibouchina sp;Tibouchina Aubl.;3188517;HIGHERRANK;94;ACCEPTED;GENUS;Plantae;Tracheophyta;Magnoliopsida;Myrtales;Melastomataceae;Tibouchina;;Tibouchina;Aubl.
+EucalyptusÂ globulus;;;NONE;100;;;;;;;;;;;
+Toxicodendron striatum;Toxicodendron striatum (Ruiz & Pav.) Kuntze;4928885;EXACT;99;ACCEPTED;SPECIES;Plantae;Tracheophyta;Magnoliopsida;Sapindales;Anacardiaceae;Toxicodendron;Toxicodendron striatum;Toxicodendron striatum;(Ruiz & Pav.) Kuntze

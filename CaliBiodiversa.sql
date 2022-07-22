@@ -48,6 +48,14 @@ ALTER TABLE censo_arboreo ADD COLUMN gbif_key varchar(10);
 
 UPDATE censo_arboreo SET gbif_key = censo_arboreo_gbif.key FROM censo_arboreo_gbif WHERE nombre_cie = censo_arboreo_gbif.species;
 
+-- Creation of the field for the backbone url link
+
+ALTER TABLE censo_arboreo ADD COLUMN gbif_backbone varchar(90);
+
+-- Creation of the url for linking in Censo Arboreo de Cali spatial database
+
+UPDATE censo_arboreo SET gbif_backbone = 'https://www.gbif.org/species/' || gbif_key;
+
 
 
 

@@ -26,13 +26,9 @@ The legal framework of this Technological Proposal of Geoportal Cali Biodiversa 
 
 ## Workflow
 
-You can consult the workflow of the Project in this Youtube listed videos: 
+You can consult the workflow of the Project in [this Youtube listed videos:](https://www.youtube.com/watch?v=wnkBqRDgJFo&list=PLh3FPqv2vgPqe7trwYlheOY6FzW_DMoPs)
 
-https://www.youtube.com/watch?v=wnkBqRDgJFo&list=PLh3FPqv2vgPqe7trwYlheOY6FzW_DMoPs
-
-Puede consultar el flujo de trabajo del Proyecto en esta lista de reproducción de Youtube:
-
-https://www.youtube.com/watch?v=onp59TE2uX4&list=PLh3FPqv2vgPotpxBLGdldLRgjHpX6rgx8
+Puede consultar el flujo de trabajo del Proyecto en [esta lista de reproducción de Youtube:](https://www.youtube.com/watch?v=onp59TE2uX4&list=PLh3FPqv2vgPotpxBLGdldLRgjHpX6rgx8)
 
 
 

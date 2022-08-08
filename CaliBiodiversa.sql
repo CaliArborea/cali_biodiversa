@@ -60,6 +60,7 @@ UPDATE censo_arboreo SET gbif_backbone = 'https://www.gbif.org/species/' || gbif
 
 SELECT DISTINCT nombre_cie FROM censo_arboreo WHERE gbif_key IS NULL GROUP BY nombre_cie ORDER BY nombre_cie;
 
+
 UPDATE censo_arboreo SET gbif_key = '2775596' WHERE nombre_cie = 'Yucca arborescens';
 
 UPDATE censo_arboreo SET gbif_backbone = 'https://www.gbif.org/species/' || gbif_key WHERE nombre_cie = 'Yucca arborescens';
@@ -68,8 +69,10 @@ SELECT DISTINCT gbif_backbone FROM censo_arboreo WHERE nombre_cie = 'Bucida buce
 
 SELECT nombre_cie, COUNT(DISTINCT id_arbol) as arboles FROM censo_arboreo GROUP BY nombre_cie ORDER BY arboles DESC;
 
+--General queries about tree species in the district territory
 
-
+SELECT nombre_cie AS nombre_tecnico, nombre_com AS nombre_comun, COUNT(DISTINCT id_arbol) AS num_ejemplares FROM censo_arboreo GROUP BY nombre_cie,
+nombre_com ORDER BY num_ejemplares DESC;
 
 
 

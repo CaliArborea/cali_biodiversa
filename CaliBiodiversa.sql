@@ -56,6 +56,19 @@ ALTER TABLE censo_arboreo ADD COLUMN gbif_backbone varchar(90);
 
 UPDATE censo_arboreo SET gbif_backbone = 'https://www.gbif.org/species/' || gbif_key;
 
+-- GBIF Key null records correction
+
+SELECT DISTINCT nombre_cie FROM censo_arboreo WHERE gbif_key IS NULL GROUP BY nombre_cie ORDER BY nombre_cie;
+
+UPDATE censo_arboreo SET gbif_key = '2775596' WHERE nombre_cie = 'Yucca arborescens';
+
+UPDATE censo_arboreo SET gbif_backbone = 'https://www.gbif.org/species/' || gbif_key WHERE nombre_cie = 'Yucca arborescens';
+
+SELECT DISTINCT gbif_backbone FROM censo_arboreo WHERE nombre_cie = 'Bucida buceras';
+
+SELECT nombre_cie, COUNT(DISTINCT id_arbol) as arboles FROM censo_arboreo GROUP BY nombre_cie ORDER BY arboles DESC;
+
+
 
 
 

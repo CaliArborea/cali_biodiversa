@@ -129,15 +129,101 @@ UPDATE fauna SET corregimiento = corregimientos.corregimie FROM corregimientos W
 UPDATE gbif_plantae_cali SET corregimiento = corregimientos.corregimie FROM corregimientos WHERE ST_INTERSECTS(gbif_plantae_cali.geom, corregimientos.geom);
 UPDATE polinizadores SET corregimiento = corregimientos.corregimie FROM corregimientos WHERE ST_INTERSECTS(polinizadores.geom, corregimientos.geom);
 
+-- Calculation of biodiversity indicators for territorial entities of the District of Cali
+
+-- Comunas
+ALTER TABLE comunas
+ADD COLUMN num_arboles int default 0,
+ADD COLUMN especies_arboles int default 0, 
+ADD COLUMN spec_gbif_plant int default 0,
+ADD COLUMN spec_mammals int default 0,
+ADD COLUMN spec_reptile int default 0,
+ADD COLUMN spec_anphibian int default 0,
+ADD COLUMN spec_insects int default 0,
+ADD COLUMN spec_pollinators int default 0; 
+
+UPDATE comunas SET num_arboles = (SELECT COUNT(DISTINCT id_arbol) FROM censo_arboreo WHERE ST_INTERSECTS(comunas.geom, censo_arboreo.geom));
+UPDATE comunas SET especies_arboles = (SELECT COUNT(DISTINCT nombre_cie) FROM censo_arboreo WHERE ST_INTERSECTS(comunas.geom, censo_arboreo.geom));
+UPDATE comunas SET spec_gbif_plant = (SELECT COUNT(DISTINCT species) FROM gbif_plantae_cali WHERE ST_INTERSECTS(comunas.geom, gbif_plantae_cali.geom));
+UPDATE comunas SET spec_mammals = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Mammalia');
+UPDATE comunas SET spec_reptile = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Reptilia');
+UPDATE comunas SET spec_anphibian = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Amphibia');
+UPDATE comunas SET spec_insects = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Insecta');
+UPDATE comunas SET spec_pollinators = (SELECT COUNT(DISTINCT species) FROM polinizadores WHERE ST_INTERSECTS(comunas.geom, polinizadores.geom));
+
+-- Neighborhoods
+ALTER TABLE barrios
+ADD COLUMN num_arboles int default 0,
+ADD COLUMN especies_arboles int default 0, 
+ADD COLUMN spec_gbif_plant int default 0,
+ADD COLUMN spec_mammals int default 0,
+ADD COLUMN spec_reptile int default 0,
+ADD COLUMN spec_anphibian int default 0,
+ADD COLUMN spec_insects int default 0,
+ADD COLUMN spec_pollinators int default 0; 
 
 
+UPDATE barrios SET num_arboles = (SELECT COUNT(DISTINCT id_arbol) FROM censo_arboreo WHERE ST_INTERSECTS(barrios.geom, censo_arboreo.geom));
+UPDATE barrios SET especies_arboles = (SELECT COUNT(DISTINCT nombre_cie) FROM censo_arboreo WHERE ST_INTERSECTS(barrios.geom, censo_arboreo.geom));
+UPDATE barrios SET spec_gbif_plant = (SELECT COUNT(DISTINCT species) FROM gbif_plantae_cali WHERE ST_INTERSECTS(barrios.geom, gbif_plantae_cali.geom));
+UPDATE barrios SET spec_mammals = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(barrios.geom, fauna.geom) AND fauna.class = 'Mammalia');
+UPDATE barrios SET spec_reptile = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(barrios.geom, fauna.geom) AND fauna.class = 'Reptilia');
+UPDATE barrios SET spec_anphibian = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(barrios.geom, fauna.geom) AND fauna.class = 'Amphibia');
+UPDATE barrios SET spec_insects = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(barrios.geom, fauna.geom) AND fauna.class = 'Insecta');
+UPDATE barrios SET spec_pollinators = (SELECT COUNT(DISTINCT species) FROM polinizadores WHERE ST_INTERSECTS(barrios.geom, polinizadores.geom));
+
+-- Corregimientos (Rural land use)
+ALTER TABLE corregimientos
+ADD COLUMN num_arboles int default 0,
+ADD COLUMN especies_arboles int default 0, 
+ADD COLUMN spec_gbif_plant int default 0,
+ADD COLUMN spec_mammals int default 0,
+ADD COLUMN spec_reptile int default 0,
+ADD COLUMN spec_anphibian int default 0,
+ADD COLUMN spec_insects int default 0,
+ADD COLUMN spec_pollinators int default 0; 
 
 
+UPDATE corregimientos SET spec_gbif_plant = (SELECT COUNT(DISTINCT species) FROM gbif_plantae_cali WHERE ST_INTERSECTS(corregimientos.geom, gbif_plantae_cali.geom));
+UPDATE corregimientos SET spec_mammals = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(corregimientos.geom, fauna.geom) AND fauna.class = 'Mammalia');
+UPDATE corregimientos SET spec_reptile = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(corregimientos.geom, fauna.geom) AND fauna.class = 'Reptilia');
+UPDATE corregimientos SET spec_anphibian = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(corregimientos.geom, fauna.geom) AND fauna.class = 'Amphibia');
+UPDATE corregimientos SET spec_insects = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(corregimientos.geom, fauna.geom) AND fauna.class = 'Insecta');
+UPDATE corregimientos SET spec_pollinators = (SELECT COUNT(DISTINCT species) FROM polinizadores WHERE ST_INTERSECTS(corregimientos.geom, polinizadores.geom));
 
 
+-- Simpson index calculation for each territorial entity
 
+-- Comunas
+ALTER TABLE comunas
+ADD COLUMN rec_gbif_plant int default 0,
+ADD COLUMN rec_mammals int default 0,
+ADD COLUMN rec_reptile int default 0,
+ADD COLUMN rec_anphibian int default 0,
+ADD COLUMN rec_insects int default 0,
+ADD COLUMN rec_pollinators int default 0;
 
+UPDATE comunas SET rec_gbif_plant = (SELECT COUNT(DISTINCT gbif_plantae_cali.id) FROM gbif_plantae_cali WHERE ST_INTERSECTS(comunas.geom, gbif_plantae_cali.geom));
+UPDATE comunas SET rec_mammals = (SELECT COUNT(DISTINCT fauna.id) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Mammalia');
+UPDATE comunas SET rec_reptile = (SELECT COUNT(DISTINCT fauna.id) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Reptilia');
+UPDATE comunas SET rec_anphibian = (SELECT COUNT(DISTINCT fauna.id) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Amphibia');
+UPDATE comunas SET rec_insects = (SELECT COUNT(DISTINCT fauna.id) FROM fauna WHERE ST_INTERSECTS(comunas.geom, fauna.geom) AND fauna.class = 'Insecta');
+UPDATE comunas SET rec_pollinators = (SELECT COUNT(DISTINCT polinizadores.id) FROM polinizadores WHERE ST_INTERSECTS(comunas.geom, polinizadores.geom));
 
+CREATE TABLE species_com1(id serial primary key, species varchar(80), records int);
+CREATE TABLE plant_com1(id serial primary key, species varchar(80), records int);
+CREATE TABLE mammals_com1(id serial primary key, species varchar(80), records int);
+CREATE TABLE reptile_com1(id serial primary key, species varchar(80), records int);
+CREATE TABLE anphibian_com1(id serial primary key, species varchar(80), records int);
+CREATE TABLE insects_com1(id serial primary key, species varchar(80), records int);
+CREATE TABLE pollinators_com1(id serial primary key, species varchar(80), records int);
+
+INSERT INTO species_com1(species, records) SELECT nombre_cie AS species, COUNT(DISTINCT id_arbol) AS records FROM censo_arboreo WHERE censo_arboreo.comuna = '1' GROUP BY species ORDER BY records DESC;
+
+ALTER TABLE comunas 
+ADD COLUMN simps_indx_arbol float8;
+
+UPDATE comunas SET simps_indx_arbol = 1 - (SELECT SUM(power(species_com1.records,2)) / power(num_arboles,2) FROM species_com1 WHERE comuna = '1');
 
 
 

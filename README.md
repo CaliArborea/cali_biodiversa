@@ -32,15 +32,15 @@ The Geo portal of the Cali Biodiversa Project will be developed using the map se
 
 The Official Filing Document of the Cali Biodiversa Project before the environmental authority of Cali, "DAGMA" can be consulted in the folder: FilingDagma
 
-You can visit the preliminary website of the Cali Biodiversa Geoportal [by following this link:](https://cali-arborea.maps.arcgis.com/apps/webappviewer/index.html?id=2208706b41a646da9fc315fa9e6734ff)
+You can visit the preliminary website of the Cali Biodiversa Geoportal [by following this link](https://cali-arborea.maps.arcgis.com/apps/webappviewer/index.html?id=2208706b41a646da9fc315fa9e6734ff)
 
-You can check the list of YouTube training videos on the use of the Cali Biodiversa Geo viewer [at this link:](https://www.youtube.com/watch?v=uOZmr6Vt6hc&list=PLh3FPqv2vgPpYf4Or--Xy2GwZizXva6_u)
+You can check the list of YouTube training videos on the use of the Cali Biodiversa Geo viewer [at this link](https://www.youtube.com/watch?v=uOZmr6Vt6hc&list=PLh3FPqv2vgPpYf4Or--Xy2GwZizXva6_u)
 
 ## Workflow
 
-You can consult the workflow of the Project in [this Youtube listed videos:](https://www.youtube.com/watch?v=wnkBqRDgJFo&list=PLh3FPqv2vgPqe7trwYlheOY6FzW_DMoPs)
+You can consult the workflow of the Project in [this Youtube listed videos](https://www.youtube.com/watch?v=wnkBqRDgJFo&list=PLh3FPqv2vgPqe7trwYlheOY6FzW_DMoPs)
 
-Puede consultar el flujo de trabajo del Proyecto en [esta lista de reproducción de Youtube:](https://www.youtube.com/watch?v=onp59TE2uX4&list=PLh3FPqv2vgPotpxBLGdldLRgjHpX6rgx8)
+Puede consultar el flujo de trabajo del Proyecto en [esta lista de reproducción de Youtube](https://www.youtube.com/watch?v=onp59TE2uX4&list=PLh3FPqv2vgPotpxBLGdldLRgjHpX6rgx8)
 
 ## Sources of information
 
@@ -61,13 +61,13 @@ GBIF.org (10 August 2022) GBIF Occurrence Download  https://doi.org/10.15468/dl.
 Polinizadores
 GBIF.org (10 August 2022) GBIF Occurrence Download  https://doi.org/10.15468/dl.vhus8w
 
-Infraestructura de Datos Espaciales de Santiago de Cali. Web Feature Service, WFS. Datos Abiertos. [Link:](https://www.cali.gov.co/planeacion/publicaciones/3560/idesc/)
+Infraestructura de Datos Espaciales de Santiago de Cali. Web Feature Service, WFS. Datos Abiertos. [Link: Here](https://www.cali.gov.co/planeacion/publicaciones/3560/idesc/)
 
-Departamento Administrativo Nacional de Estadística DANE. Censo Nacional de Población y Vivienda 2018. Datos Abiertos REDATAM. [Link:](http://systema59.dane.gov.co/bincol/RpWebEngine.exe/Portal?BASE=CNPVBASE4V2&lang=esp) [Datos Abiertos de Colombia:](https://www.datos.gov.co/)
+Departamento Administrativo Nacional de Estadística DANE. Censo Nacional de Población y Vivienda 2018. Datos Abiertos REDATAM. [Link: Here](http://systema59.dane.gov.co/bincol/RpWebEngine.exe/Portal?BASE=CNPVBASE4V2&lang=esp) and [Datos Abiertos de Colombia](https://www.datos.gov.co/)
 
-Corporación Autónoma Regional del Valle del Cauca CVC. Portal de Datos Abiertos. [Link:](https://geo.cvc.gov.co/portal/apps/sites/#/portal-geocvc)
+Corporación Autónoma Regional del Valle del Cauca CVC. Portal de Datos Abiertos. [Link: Here](https://geo.cvc.gov.co/portal/apps/sites/#/portal-geocvc)
 
-Agencia Japonesa para la Cooperación Internacional – CVC. Especies forestales del Valle del Cauca. 1996. 186 p. [Link:](https://ecopedia.cvc.gov.co/biodiversidad/flora/kun-especies-forestales-del-valle-del-cauca)
+Agencia Japonesa para la Cooperación Internacional – CVC. Especies forestales del Valle del Cauca. 1996. 186 p. [Link: Here](https://ecopedia.cvc.gov.co/biodiversidad/flora/kun-especies-forestales-del-valle-del-cauca)
 
 Pérez Arbeláez E. Plantas útiles de Colombia. Universidad Nacional de Colombia.
 

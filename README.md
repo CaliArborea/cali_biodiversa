@@ -26,11 +26,55 @@ Support processes of construction of indicators concerning with environmental qu
 
 The legal framework of this Technological Proposal of Geoportal Cali Biodiversa is integrated by the administrative provisions of Agreement (Acuerdo 0353 de 2013 del Concejo Municipal) that adopts the Statute  (Estatuto de Silvicultura Urbana del Distrito de Santiago de Cali), which, specifically in its article 11, contemplates the collective task of maintaining the "Urban and Rural Environmental System" which implies generating viable strategies that qualify and increase the level of knowledge, appropriation and citizen awareness on environmental protection and on the other hand, develop synergies between the different social, economic and institutional actors related in different ways with the areas and the territory.
 
+## Presentation of the preliminary Geo portal of the Project
+
+The Geo portal of the Cali Biodiversa Project will be developed using the map server in the cloud ArcGIS Online and ArcGIS for Developers from the company ESRI. The "Departamento Administrativo de Gestión del Medio Ambiente del Distrito de Cali, DAGMA" is requested to arrange an appointment with the personnel in charge of the subject in the Entity to present the Proposal in greater detail.
+
+The Official Filing Document of the Cali Biodiversa Project before the environmental authority of Cali, "DAGMA" can be consulted in the folder: FilingDagma
+
+You can visit the preliminary website of the Cali Biodiversa Geoportal [by following this link:](https://cali-arborea.maps.arcgis.com/apps/webappviewer/index.html?id=2208706b41a646da9fc315fa9e6734ff)
+
+You can check the list of YouTube training videos on the use of the Cali Biodiversa Geo viewer [at this link:](https://www.youtube.com/watch?v=uOZmr6Vt6hc&list=PLh3FPqv2vgPpYf4Or--Xy2GwZizXva6_u)
+
 ## Workflow
 
 You can consult the workflow of the Project in [this Youtube listed videos:](https://www.youtube.com/watch?v=wnkBqRDgJFo&list=PLh3FPqv2vgPqe7trwYlheOY6FzW_DMoPs)
 
 Puede consultar el flujo de trabajo del Proyecto en [esta lista de reproducción de Youtube:](https://www.youtube.com/watch?v=onp59TE2uX4&list=PLh3FPqv2vgPotpxBLGdldLRgjHpX6rgx8)
+
+## Sources of information
+
+Departamento Administrativo de Gestión del Medio Ambiente DAGMA – Universidad Autónoma de Occidente. Censo Arbóreo de Cali. 2021.
+Alcaldía de Santiago de Cali. Plan de Ordenamiento Territorial de Cali. 
+
+Concejo Municipal de Cali. Acuerdo 0353 de 2013: Estatuto de Silvicultura Urbana de Cali.
+
+Global Biodiversity Information Facility, GBIF. Backbone and API:
+Mammalia
+GBIF.org (10 August 2022) GBIF Occurrence Download  https://doi.org/10.15468/dl.jbkyvp
+Reptilia
+GBIF.org (10 August 2022) GBIF Occurrence Download  https://doi.org/10.15468/dl.wqfjuh
+Amphibia
+GBIF.org (10 August 2022) GBIF Occurrence Download  https://doi.org/10.15468/dl.css2ap
+Insecta
+GBIF.org (10 August 2022) GBIF Occurrence Download  https://doi.org/10.15468/dl.9r8p3a
+Polinizadores
+GBIF.org (10 August 2022) GBIF Occurrence Download  https://doi.org/10.15468/dl.vhus8w
+
+Infraestructura de Datos Espaciales de Santiago de Cali. Web Feature Service, WFS. Datos Abiertos. [Link:](https://www.cali.gov.co/planeacion/publicaciones/3560/idesc/)
+
+Departamento Administrativo Nacional de Estadística DANE. Censo Nacional de Población y Vivienda 2018. Datos Abiertos REDATAM. [Link:](http://systema59.dane.gov.co/bincol/RpWebEngine.exe/Portal?BASE=CNPVBASE4V2&lang=esp) [Datos Abiertos de Colombia:](https://www.datos.gov.co/)
+
+Corporación Autónoma Regional del Valle del Cauca CVC. Portal de Datos Abiertos. [Link:](https://geo.cvc.gov.co/portal/apps/sites/#/portal-geocvc)
+
+Agencia Japonesa para la Cooperación Internacional – CVC. Especies forestales del Valle del Cauca. 1996. 186 p. [Link:](https://ecopedia.cvc.gov.co/biodiversidad/flora/kun-especies-forestales-del-valle-del-cauca)
+
+Pérez Arbeláez E. Plantas útiles de Colombia. Universidad Nacional de Colombia.
+
+## Contact us:
+
+Email: cali.arborea@gmail.com
+
 
 
 

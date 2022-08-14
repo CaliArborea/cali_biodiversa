@@ -71,6 +71,11 @@ Agencia Japonesa para la Cooperación Internacional – CVC. Especies forestales
 
 Pérez Arbeláez E. Plantas útiles de Colombia. Universidad Nacional de Colombia.
 
+## Authors: 
+
+Geovanny Andres Marmolejo De Oro
+Andres Pulido Calderon
+
 ## Contact us:
 
 Email: cali.arborea@gmail.com

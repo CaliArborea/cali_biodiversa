@@ -225,5 +225,12 @@ ADD COLUMN simps_indx_arbol float8;
 
 UPDATE comunas SET simps_indx_arbol = 1 - (SELECT SUM(power(species_com1.records,2)) / power(num_arboles,2) FROM species_com1 WHERE comuna = '1');
 
+-- GBIF Backbone URL field creation for fauna PostGIS layers
 
+ALTER TABLE fauna ADD COLUMN gbif_backbone varchar(120);
+ALTER TABLE gbif_plantae_cali ADD COLUMN gbif_backbone varchar(120);
+ALTER TABLE polinizadores ADD COLUMN gbif_backbone varchar(120);
 
+UPDATE fauna SET gbif_backbone = 'https://www.gbif.org/species/' || taxonkey;
+UPDATE gbif_plantae_cali SET gbif_backbone = 'https://www.gbif.org/species/' || taxonkey;
+UPDATE polinizadores SET gbif_backbone = 'https://www.gbif.org/species/' || taxonkey;

@@ -234,3 +234,22 @@ ALTER TABLE polinizadores ADD COLUMN gbif_backbone varchar(120);
 UPDATE fauna SET gbif_backbone = 'https://www.gbif.org/species/' || taxonkey;
 UPDATE gbif_plantae_cali SET gbif_backbone = 'https://www.gbif.org/species/' || taxonkey;
 UPDATE polinizadores SET gbif_backbone = 'https://www.gbif.org/species/' || taxonkey;
+
+-- Construction of the strategic ecosystems buffer (Protection areas)
+-- Rivers
+
+CREATE TABLE ap_rios(id serial primary key, nombre varchar(50), geom geometry(Polygon, 3115));
+
+INSERT INTO ap_rios(geom, nombre) SELECT ST_Buffer(geom, 30), nombre FROM rios;
+
+-- Wetlands
+
+CREATE TABLE ap_humedales(id serial primary key, nombre varchar(80), geom geometry(Polygon, 3115));
+
+INSERT INTO ap_humedales(geom, nombre) SELECT ST_Buffer(geom, 30), nombre FROM humedales;
+
+
+
+
+
+

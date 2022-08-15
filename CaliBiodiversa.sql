@@ -248,6 +248,74 @@ CREATE TABLE ap_humedales(id serial primary key, nombre varchar(80), geom geomet
 
 INSERT INTO ap_humedales(geom, nombre) SELECT ST_Buffer(geom, 30), nombre FROM humedales;
 
+-- calculation of biodiversity indicators for strategic ecosystems
+-- Rivers
+
+ALTER TABLE ap_rios 
+ADD COLUMN esp_arboles int default 0,
+ADD COLUMN esp_plant int default 0,
+ADD COLUMN esp_mamifer int default 0,
+ADD COLUMN esp_reptil int default 0,
+ADD COLUMN esp_anfib int default 0,
+ADD COLUMN esp_insect int default 0,
+ADD COLUMN esp_poliniz int default 0;
+
+-- Wetlands
+
+ALTER TABLE ap_humedales 
+ADD COLUMN esp_arboles int default 0,
+ADD COLUMN esp_plant int default 0,
+ADD COLUMN esp_mamifer int default 0,
+ADD COLUMN esp_reptil int default 0,
+ADD COLUMN esp_anfib int default 0,
+ADD COLUMN esp_insect int default 0,
+ADD COLUMN esp_poliniz int default 0;
+
+-- Tree biodiversity
+
+UPDATE ap_rios SET esp_arboles = (SELECT COUNT(DISTINCT nombre_cie) FROM censo_arboreo WHERE ST_INTERSECTS(ap_rios.geom, censo_arboreo.geom));
+UPDATE ap_humedales SET esp_arboles = (SELECT COUNT(DISTINCT nombre_cie) FROM censo_arboreo WHERE ST_INTERSECTS(ap_humedales.geom, censo_arboreo.geom));
+
+-- GBIF plant biodiversity
+
+UPDATE ap_rios SET esp_plant = (SELECT COUNT(DISTINCT species) FROM gbif_plantae_cali WHERE ST_INTERSECTS(ap_rios.geom, gbif_plantae_cali.geom));
+UPDATE ap_humedales SET esp_plant = (SELECT COUNT(DISTINCT species) FROM gbif_plantae_cali WHERE ST_INTERSECTS(ap_humedales.geom, gbif_plantae_cali.geom));
+
+-- Mammals biodiversity
+
+UPDATE ap_rios SET esp_mamifer = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_rios.geom, fauna.geom) AND fauna.class = 'Mammalia');
+UPDATE ap_humedales SET esp_mamifer = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_humedales.geom, fauna.geom) AND fauna.class = 'Mammalia');
+
+-- Reptiles biodiversity
+
+UPDATE ap_rios SET esp_reptil = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_rios.geom, fauna.geom) AND fauna.class = 'Reptilia');
+UPDATE ap_humedales SET esp_reptil = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_humedales.geom, fauna.geom) AND fauna.class = 'Reptilia');
+
+-- Amphibians biodiversity
+
+UPDATE ap_rios SET esp_anfib = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_rios.geom, fauna.geom) AND fauna.class = 'Amphibia');
+UPDATE ap_humedales SET esp_anfib = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_humedales.geom, fauna.geom) AND fauna.class = 'Amphibia');
+
+-- Insects biodiversity
+
+UPDATE ap_rios SET esp_insect = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_rios.geom, fauna.geom) AND fauna.class = 'Insecta');
+UPDATE ap_humedales SET esp_insect = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(ap_humedales.geom, fauna.geom) AND fauna.class = 'Insecta');
+
+-- Pollinators biodiversity
+
+UPDATE ap_rios SET esp_poliniz = (SELECT COUNT(DISTINCT species) FROM polinizadores WHERE ST_INTERSECTS(ap_rios.geom, polinizadores.geom));
+UPDATE ap_humedales SET esp_poliniz = (SELECT COUNT(DISTINCT species) FROM polinizadores WHERE ST_INTERSECTS(ap_humedales.geom, polinizadores.geom));
+
+
+
+
+
+
+
+
+
+
+
 
 
 

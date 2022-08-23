@@ -307,17 +307,97 @@ UPDATE ap_rios SET esp_poliniz = (SELECT COUNT(DISTINCT species) FROM polinizado
 UPDATE ap_humedales SET esp_poliniz = (SELECT COUNT(DISTINCT species) FROM polinizadores WHERE ST_INTERSECTS(ap_humedales.geom, polinizadores.geom));
 
 
+-- Biodiversity indicators creation for education institutions
+
+ALTER TABLE educacion
+ADD COLUMN esp_arboles int default 0,
+ADD COLUMN num_arboles int default 0,
+ADD COLUMN esp_plantae int default 0,
+ADD COLUMN num_plantae int default 0,
+ADD COLUMN esp_aves int default 0,
+ADD COLUMN num_aves int default 0,
+ADD COLUMN esp_mamif int default 0,
+ADD COLUMN num_mamif int default 0,
+ADD COLUMN esp_reptil int default 0,
+ADD COLUMN num_reptil int default 0,
+ADD COLUMN esp_anfib int default 0,
+ADD COLUMN num_anfib int default 0,
+ADD COLUMN esp_insect int default 0,
+ADD COLUMN num_insect int default 0,
+ADD COLUMN esp_poliniz int default 0,
+ADD COLUMN num_poliniz int default 0;
+
+-- Censo Arboreo de Cali Trees biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_arboles = (SELECT COUNT(DISTINCT nombre_cie) FROM censo_arboreo WHERE ST_INTERSECTS(educacion.geom, censo_arboreo.geom));
+UPDATE educacion SET num_arboles = (SELECT COUNT(DISTINCT id_arbol) FROM censo_arboreo WHERE ST_INTERSECTS(educacion.geom, censo_arboreo.geom));
+
+-- GBIF Plantae biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_plantae = (SELECT COUNT(DISTINCT species) FROM gbif_plantae_cali WHERE ST_INTERSECTS(educacion.geom, gbif_plantae_cali.geom));
+UPDATE educacion SET num_plantae = (SELECT COUNT(DISTINCT id) FROM gbif_plantae_cali WHERE ST_INTERSECTS(educacion.geom, gbif_plantae_cali.geom));
+
+-- GBIF Aves biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_aves = (SELECT COUNT(DISTINCT species) FROM aves WHERE ST_INTERSECTS(educacion.geom, aves.geom));
+UPDATE educacion SET num_aves = (SELECT COUNT(DISTINCT id) FROM aves WHERE ST_INTERSECTS(educacion.geom, aves.geom));
+
+-- GBIF Mammalia biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_mamif = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Mammalia');
+UPDATE educacion SET num_mamif = (SELECT COUNT(DISTINCT id) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Mammalia');
+
+-- GBIF Reptilia biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_reptil = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Reptilia');
+UPDATE educacion SET num_reptil = (SELECT COUNT(DISTINCT id) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Reptilia');
+
+-- GBIF Amphibia biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_anfib = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Amphibia');
+UPDATE educacion SET num_anfib = (SELECT COUNT(DISTINCT id) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Amphibia');
+
+-- GBIF Insecta biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_insect = (SELECT COUNT(DISTINCT species) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Insecta');
+UPDATE educacion SET num_insect = (SELECT COUNT(DISTINCT id) FROM fauna WHERE ST_INTERSECTS(educacion.geom, fauna.geom) AND fauna.class = 'Insecta');
+
+-- GBIF Pollinators biodiversity indicators for educational institutions
+
+UPDATE educacion SET esp_poliniz = (SELECT COUNT(DISTINCT species) FROM polinizadores WHERE ST_INTERSECTS(educacion.geom, polinizadores.geom));
+UPDATE educacion SET num_poliniz = (SELECT COUNT(DISTINCT id) FROM polinizadores WHERE ST_INTERSECTS(educacion.geom, polinizadores.geom));
+
+-- Biodiversity records segmentation for presence in educational institutions areas
+
+ALTER TABLE censo_arboreo ADD COLUMN education varchar(280);
+ALTER TABLE gbif_plantae_cali ADD COLUMN education varchar(280);
+ALTER TABLE aves ADD COLUMN education varchar(280);
+ALTER TABLE fauna ADD COLUMN education varchar(280);
+ALTER TABLE polinizadores ADD COLUMN education varchar(280);
+
+-- Censo Arboreo de Cali
+
+UPDATE censo_arboreo SET education = educacion.nombre FROM educacion WHERE ST_INTERSECTS(censo_arboreo.geom, educacion.geom);
+
+-- GBIF Plantae spatial database
+
+UPDATE gbif_plantae_cali SET education = educacion.nombre FROM educacion WHERE ST_INTERSECTS(gbif_plantae_cali.geom, educacion.geom);
+
+-- GBIF fauna spatial database
+
+UPDATE fauna SET education = educacion.nombre FROM educacion WHERE ST_INTERSECTS(fauna.geom, educacion.geom);
+
+-- GBIF Aves spatial database
+
+UPDATE aves SET education = educacion.nombre FROM educacion WHERE ST_INTERSECTS(aves.geom, educacion.geom);
+
+-- GBIF pollinators spatial database
+
+UPDATE polinizadores SET education = educacion.nombre FROM educacion WHERE ST_INTERSECTS(polinizadores.geom, educacion.geom);
 
 
+-- Calculation of educational institutions areas in square meters
 
+ALTER TABLE educacion ADD COLUMN area_m2 double precision default 0;
 
-
-
-
-
-
-
-
-
-
-
+UPDATE educacion SET area_m2 = ST_Area(educacion.geom);
